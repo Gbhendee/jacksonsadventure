@@ -19,6 +19,8 @@ func _get_player():
 	return null
 
 func show_dialog(body):
+	if not body.is_in_group("player"):
+		return
 	if dialog_played:
 		return
 	if not is_instance_valid($Dialog):
