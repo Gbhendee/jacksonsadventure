@@ -18,6 +18,8 @@ func _ready() -> void:
 	nextPhrase()
 	
 func _process(delta):
+	if not visible:
+		return
 	if Input.is_action_just_pressed("ui_accept"):
 		if finished:
 			nextPhrase()
