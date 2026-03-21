@@ -14,7 +14,6 @@ var finished = false
 func _ready() -> void:
 	type_timer.wait_time = textSpeed
 	dialog = load_dialog()
-	nextPhrase()
 	
 func _process(delta):
 	if not visible:

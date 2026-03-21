@@ -1,8 +1,8 @@
 [
-	{"Name":"Snickers:", "Text":"What the heck are you?  You must be new here..."},
-	{"Name":"Snickers:", "Text":"My  name is Snickers and I'm special.  you know why?"},
-	{"Name":"Snickers:", "Text":"Because i can [tornado radius=5 freq=2] JUMP [/tornado]!"},
-	{"Name":"Snickers:", "Text":"I hope you can too, otherwise you'll be stuck here"},
-	{"Name":"Snickers:", "Text":"Just try using your legs and pressing the action button."},
-	{"Name":"Snickers:", "Text":"...I doubt you can do it though."}
+	{"Name":"Snickers:", "Text":"Oh. You're just standing there. On the ground. Very impressive."},
+	{"Name":"Snickers:", "Text":"You do know this world has... levels, right? Things above you? Places you can't reach?"},
+	{"Name":"Snickers:", "Text":"We cats figured this out ages ago. You press the action button and [tornado radius=5 freq=2]JUMP[/tornado]. Simple."},
+	{"Name":"Snickers:", "Text":"Space or Enter. Either one. Try not to overthink it — it's really not that complicated."},
+	{"Name":"Snickers:", "Text":"The whole world opens up once you can get off the floor. Not that I expect you to appreciate that."},
+	{"Name":"Snickers:", "Text":"...But go ahead. Surprise me."}
 ]

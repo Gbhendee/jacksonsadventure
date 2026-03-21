@@ -27,3 +27,4 @@ func show_dialog(body):
 	if player:
 		player.freeze()
 	$Dialog.visible = true
+	$Dialog.nextPhrase()
