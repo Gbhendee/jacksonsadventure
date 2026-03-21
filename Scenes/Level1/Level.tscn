@@ -1,4 +1,4 @@
-[gd_scene load_steps=19 format=2]
+[gd_scene load_steps=20 format=2]
 
 [ext_resource path="res://Assets/ArtAssets/Pixel Adventure 1/catset_spritesheets/snickers/cat01_sit_strip8.png" type="Texture" id=1]
 [ext_resource path="res://Scenes/Level1/Level.gd" type="Script" id=2]
@@ -8,6 +8,7 @@
 [ext_resource path="res://Scenes/Level1/Ground_TileSet.tres" type="TileSet" id=6]
 [ext_resource path="res://Scenes/Dialog/Dialog.tscn" type="PackedScene" id=7]
 [ext_resource path="res://Scenes/Level1/Snickers.gd" type="Script" id=8]
+[ext_resource path="res://Scenes/Level1/Snickers2.gd" type="Script" id=9]
 
 [sub_resource type="RectangleShape2D" id=1]
 extents = Vector2( 8.7057, 7.95389 )
@@ -123,11 +124,9 @@ margin_right = -1.37027
 margin_bottom = -15.6771
 rect_scale = Vector2( 0.506002, 0.628718 )
 
-[node name="Snickers2" type="StaticBody2D" parent="."]
+[node name="Snickers2" type="Area2D" parent="."]
 position = Vector2( 42, 680 )
-__meta__ = {
-"_edit_group_": true
-}
+script = ExtResource( 9 )
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Snickers2"]
 shape = SubResource( 1 )
@@ -136,4 +135,14 @@ shape = SubResource( 1 )
 frames = SubResource( 10 )
 animation = "Sitting"
 
+[node name="Dialog" parent="Snickers2" instance=ExtResource( 7 )]
+visible = false
+margin_left = -41.3703
+margin_top = -55.6771
+margin_right = -1.37027
+margin_bottom = -15.6771
+rect_scale = Vector2( 0.506002, 0.628718 )
+dialogPath = "res://dialog2.json"
+
 [connection signal="body_entered" from="Snickers" to="Snickers" method="_on_Snickers_body_entered"]
+[connection signal="body_entered" from="Snickers2" to="Snickers2" method="_on_Snickers2_body_entered"]
