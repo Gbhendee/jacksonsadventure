@@ -6,7 +6,6 @@ onready var pause_timer := get_node("PauseTimer") as Timer
 
 export var dialogPath = ""
 export(float) var textSpeed = 0.05
-# We are going to use this logic to test, will be removed later
 
 var dialog
 var phraseNum = 0
@@ -27,13 +26,10 @@ func _process(delta):
 			$Content.visible_characters = len($Content.text)
 	
 func load_dialog():
-	print("in load idalog")
 	var file = File.new()
 	assert(file.file_exists(dialogPath), "Dialog File doesn't exist")
 	file.open(dialogPath, File.READ)
-	
 	var output = file.get_as_text()
-	print(output)
 	var json = parse_json(output)
 	
 	return json

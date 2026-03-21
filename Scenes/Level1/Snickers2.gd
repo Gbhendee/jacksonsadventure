@@ -1,9 +1,4 @@
-extends Area2D
-
-
-func _ready():
-	$Dialog.visible = false
-
+extends "res://Scenes/Level1/TutorialNPC.gd"
 
 func _on_Snickers2_body_entered(body):
-	$Dialog.visible = true
+	show_dialog(body)
