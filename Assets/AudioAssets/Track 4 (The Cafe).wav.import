@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Track 4 (The Cafe).wav-adfaaad4c413b660fa1b92cd51c5760b.sample"
+
+[deps]
+
+source_file="res://Assets/AudioAssets/Track 4 (The Cafe).wav"
+dest_files=[ "res://.import/Track 4 (The Cafe).wav-adfaaad4c413b660fa1b92cd51c5760b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

@@ -1,0 +1,24 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://Scenes/Player/player.gd" type="Script" id=2]
+[ext_resource path="res://Scenes/Player/new_spriteframes.tres" type="SpriteFrames" id=3]
+
+[sub_resource type="RectangleShape2D" id=1]
+extents = Vector2( 5, 6 )
+
+[node name="Player" type="KinematicBody2D"]
+position = Vector2( 0, -8 )
+scale = Vector2( 1.25434, 1.22277 )
+script = ExtResource( 2 )
+
+[node name="AnimatedSprite" type="AnimatedSprite" parent="."]
+position = Vector2( 2.27374e-13, 0 )
+scale = Vector2( 0.737771, 0.827127 )
+frames = ExtResource( 3 )
+animation = "crawl"
+playing = true
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2( 1.5, 3 )
+rotation = 1.5708
+shape = SubResource( 1 )

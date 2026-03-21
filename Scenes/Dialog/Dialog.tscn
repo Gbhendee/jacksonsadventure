@@ -1,0 +1,38 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Scenes/Dialog/Dialog.gd" type="Script" id=1]
+[ext_resource path="res://Assets/ArtAssets/Dialog9Rects/dialogue_backgroung.png" type="Texture" id=2]
+
+[node name="Dialog" type="Control"]
+margin_right = 40.0
+margin_bottom = 40.0
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_group_": true
+}
+dialogPath = "res://dialog.json"
+
+[node name="NinePatchRect" type="NinePatchRect" parent="."]
+modulate = Color( 0.380392, 0.27451, 0.27451, 1 )
+margin_right = 224.0
+margin_bottom = 72.0
+texture = ExtResource( 2 )
+region_rect = Rect2( 0, 0, 12, 12 )
+patch_margin_left = 5
+patch_margin_top = 7
+patch_margin_right = 5
+patch_margin_bottom = 7
+
+[node name="TypeTyper" type="Timer" parent="."]
+
+[node name="Content" type="RichTextLabel" parent="."]
+margin_top = 24.0
+margin_right = 224.0
+margin_bottom = 72.0
+bbcode_enabled = true
+
+[node name="PauseTimer" type="Timer" parent="."]
+
+[node name="NameLabel" type="RichTextLabel" parent="."]
+margin_right = 120.0
+margin_bottom = 16.0
