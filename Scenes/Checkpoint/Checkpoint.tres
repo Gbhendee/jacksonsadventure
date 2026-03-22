@@ -1,8 +1,8 @@
 [gd_resource type="SpriteFrames" load_steps=41 format=2]
 
-[ext_resource path="res://Assets/ArtAssets/Pixel Adventure 1/Free/Items/Checkpoints/Checkpoint/Checkpoint (No Flag).png" type="Texture" id=1]
-[ext_resource path="res://Assets/ArtAssets/Pixel Adventure 1/Free/Items/Checkpoints/Checkpoint/Checkpoint (Flag Out) (64x64).png" type="Texture" id=2]
-[ext_resource path="res://Assets/ArtAssets/Pixel Adventure 1/Free/Items/Checkpoints/Checkpoint/Checkpoint (Flag Idle)(64x64).png" type="Texture" id=3]
+[ext_resource path="res://Assets/Art/items/checkpoints/Checkpoint (No Flag).png" type="Texture" id=1]
+[ext_resource path="res://Assets/Art/items/checkpoints/Checkpoint (Flag Out) (64x64).png" type="Texture" id=2]
+[ext_resource path="res://Assets/Art/items/checkpoints/Checkpoint (Flag Idle)(64x64).png" type="Texture" id=3]
 
 [sub_resource type="AtlasTexture" id=11]
 atlas = ExtResource( 2 )
