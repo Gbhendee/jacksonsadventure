@@ -1,4 +1,4 @@
-[gd_scene load_steps=20 format=2]
+[gd_scene load_steps=21 format=2]
 
 [ext_resource path="res://Assets/Art/characters/npcs/snickers/cat01_sit_strip8.png" type="Texture" id=1]
 [ext_resource path="res://Scenes/Level1/Level.gd" type="Script" id=2]
@@ -7,7 +7,7 @@
 [ext_resource path="res://Scenes/Level1/Ground_TileSet.tres" type="TileSet" id=6]
 [ext_resource path="res://Scenes/Dialog/Dialog.tscn" type="PackedScene" id=7]
 [ext_resource path="res://Scenes/Level1/Snickers.gd" type="Script" id=8]
-[ext_resource path="res://Scenes/Level1/Snickers2.gd" type="Script" id=9]
+[ext_resource path="res://Scenes/Level1/LevelEnd.gd" type="Script" id=9]
 [ext_resource path="res://Scenes/Level1/SnickersCliff.gd" type="Script" id=10]
 
 [sub_resource type="RectangleShape2D" id=1]
@@ -52,6 +52,9 @@ animations = [ {
 "name": "Sitting",
 "speed": 8.0
 } ]
+
+[sub_resource type="RectangleShape2D" id=11]
+extents = Vector2( 160, 50 )
 
 [node name="Level" type="Node2D"]
 scale = Vector2( 0.966875, 1.0058 )
@@ -118,27 +121,6 @@ margin_right = -1.37027
 margin_bottom = -15.6771
 rect_scale = Vector2( 0.506002, 0.628718 )
 
-[node name="Snickers2" type="Area2D" parent="."]
-position = Vector2( 42, 680 )
-script = ExtResource( 9 )
-
-[node name="CollisionShape2D" type="CollisionShape2D" parent="Snickers2"]
-shape = SubResource( 1 )
-
-[node name="AnimatedSprite" type="AnimatedSprite" parent="Snickers2"]
-position = Vector2( -0.629604, -0.938538 )
-frames = SubResource( 10 )
-animation = "Sitting"
-
-[node name="Dialog" parent="Snickers2" instance=ExtResource( 7 )]
-visible = false
-margin_left = -41.3703
-margin_top = -55.6771
-margin_right = -1.37027
-margin_bottom = -15.6771
-rect_scale = Vector2( 0.506002, 0.628718 )
-dialogPath = "res://Data/dialog2.json"
-
 [node name="SnickersCliff" type="Area2D" parent="."]
 position = Vector2( 1441, 680 )
 script = ExtResource( 10 )
@@ -159,6 +141,13 @@ margin_bottom = -15.6771
 rect_scale = Vector2( 0.506002, 0.628718 )
 dialogPath = "res://Data/dialog_cliff.json"
 
+[node name="LevelEnd" type="Area2D" parent="."]
+position = Vector2( 1470, 950 )
+script = ExtResource( 9 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="LevelEnd"]
+shape = SubResource( 11 )
+
 [connection signal="body_entered" from="Snickers" to="Snickers" method="_on_Snickers_body_entered"]
-[connection signal="body_entered" from="Snickers2" to="Snickers2" method="_on_Snickers2_body_entered"]
+[connection signal="body_entered" from="LevelEnd" to="LevelEnd" method="_on_LevelEnd_body_entered"]
 [connection signal="body_entered" from="SnickersCliff" to="SnickersCliff" method="_on_SnickersCliff_body_entered"]
