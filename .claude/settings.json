@@ -5,6 +5,7 @@
       "Bash(cd *)",
       "Bash(git *)",
       "Bash(npm *)",
+      "Bash(find *)",
       "Bash(ls *)",
       "Bash(cat *)",
       "Bash(echo *)",
