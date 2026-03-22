@@ -35,6 +35,12 @@ var ledge_grabbing := false
 
 func _ready():
 	add_to_group("player")
+	$AnimatedSprite.connect("animation_finished", self, "_on_AnimatedSprite_animation_finished")
+
+
+func _on_AnimatedSprite_animation_finished():
+	if $AnimatedSprite.animation == "land":
+		landing = false
 
 func freeze():
 	frozen = true
@@ -103,9 +109,8 @@ func _physics_process(delta):
 	if was_airborne and is_on_floor():
 		landing = true
 		$AnimatedSprite.play("land")
-
-	# Clear landing once the land animation finishes or is interrupted
-	if landing and (not $AnimatedSprite.is_playing() or $AnimatedSprite.animation != "land"):
+	elif landing and not is_on_floor():
+		# Safety: player walked off an edge mid-land-animation — don't stay stuck
 		landing = false
 
 	# Wall climb and ledge grab stubs
