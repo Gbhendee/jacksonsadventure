@@ -12,7 +12,8 @@
       "Bash(echo *)",
       "Bash(mkdir *)",
       "Bash(cp *)",
-      "Bash(mv *)"
+      "Bash(mv *)",
+      "Read(*)"
     ]
   }
 }
