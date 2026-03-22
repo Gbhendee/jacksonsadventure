@@ -1,0 +1,39 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://Scenes/Level1/Ground_TileSet.tres" type="TileSet" id=1]
+[ext_resource path="res://Scenes/Player/player.tscn" type="PackedScene" id=2]
+
+[sub_resource type="RectangleShape2D" id=1]
+extents = Vector2( 800, 16 )
+
+[node name="Level2" type="Node2D"]
+
+[node name="Background" type="ColorRect" parent="."]
+margin_right = 1600.0
+margin_bottom = 768.0
+color = Color( 0.0588235, 0.0392157, 0.0784314, 1 )
+
+[node name="TileMap" type="TileMap" parent="."]
+tile_set = ExtResource( 1 )
+cell_size = Vector2( 16, 16 )
+format = 1
+# TODO: Replace Ground_TileSet.tres with cave tileset once cave assets are finalized.
+# Tile data (cave floor etc.) to be added in a future session.
+
+[node name="Floor" type="StaticBody2D" parent="."]
+position = Vector2( 800, 416 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Floor"]
+shape = SubResource( 1 )
+
+[node name="Player" parent="." instance=ExtResource( 2 )]
+position = Vector2( 200, 300 )
+
+[node name="Camera2D" type="Camera2D" parent="Player"]
+position = Vector2( 32, 32 )
+current = true
+zoom = Vector2( 0.3, 0.3 )
+limit_left = 0
+limit_top = 0
+limit_right = 3000
+limit_bottom = 1200
