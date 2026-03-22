@@ -2,7 +2,7 @@
   "defaultMode": "acceptEdits",
   "permissions": {
     "allow": [
-      "Bash(cd *)",
+      "Bash(cd*)",
       "Bash(git *)",
       "Bash(npm *)",
       "Bash(find *)",
