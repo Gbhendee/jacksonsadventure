@@ -3,6 +3,7 @@ extends Area2D
 var dialog_played := false
 
 func _ready():
+	$AnimatedSprite.play("Sitting")
 	$Dialog.visible = false
 	$Dialog.connect("tree_exiting", self, "_on_dialog_finished")
 

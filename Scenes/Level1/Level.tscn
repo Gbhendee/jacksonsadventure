@@ -126,11 +126,9 @@ position = Vector2( 1441, 680 )
 script = ExtResource( 10 )
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="SnickersCliff"]
-position = Vector2( 1347.36, -289.266 )
 shape = SubResource( 1 )
 
 [node name="AnimatedSprite" type="AnimatedSprite" parent="SnickersCliff"]
-position = Vector2( 1347.36, -289.266 )
 frames = SubResource( 10 )
 animation = "Sitting"
 
