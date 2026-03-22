@@ -6,10 +6,32 @@ onready var crawl_speed: float = 70 * scale.x
 
 const GRAVITY = 25
 const JUMP_FORCE := 400
+const DASH_SPEED := 280.0
+const DASH_DURATION := 0.2
+const DASH_COOLDOWN := 1.0
 
 var frozen := false
 var jump_unlocked := false
 var crouch_unlocked := false
+var dash_unlocked := false
+var ledge_grab_unlocked := false
+var wall_climb_unlocked := false
+
+# Landing animation state
+var was_airborne := false
+var landing := false
+
+# Dash state
+var dashing := false
+var dash_timer := 0.0
+var dash_cooldown_timer := 0.0
+var dash_direction := 1
+
+# Wall climb state
+var wall_climbing := false
+
+# Ledge grab state
+var ledge_grabbing := false
 
 func _ready():
 	add_to_group("player")
@@ -27,18 +49,39 @@ func unlock_jump():
 func unlock_crouch():
 	crouch_unlocked = true
 
+func unlock_dash():
+	dash_unlocked = true
+
+func unlock_ledge_grab():
+	ledge_grab_unlocked = true
+
+func unlock_wall_climb():
+	wall_climb_unlocked = true
+
 func _physics_process(delta):
 	if frozen:
 		velocity.y += GRAVITY
 		velocity = move_and_slide(velocity, Vector2.UP)
 		$AnimatedSprite.play("idle")
+		was_airborne = false
+		landing = false
 		return
 
 	var move_left = Input.get_action_strength("ui_left")
 	var move_right = Input.get_action_strength("ui_right")
 	var crouching = Input.get_action_strength("ui_down") if crouch_unlocked else 0.0
 
-	if crouching > 0:
+	# Dash timers
+	if dash_cooldown_timer > 0:
+		dash_cooldown_timer -= delta
+	if dashing:
+		dash_timer -= delta
+		if dash_timer <= 0:
+			dashing = false
+
+	if dashing:
+		velocity.x = dash_direction * DASH_SPEED
+	elif crouching > 0:
 		velocity.x = (move_right - move_left) * crawl_speed
 	else:
 		velocity.x = (move_right - move_left) * move_speed
@@ -56,7 +99,31 @@ func _physics_process(delta):
 	elif move_right > 0:
 		$AnimatedSprite.flip_h = false
 
-	if velocity.y < 0:
+	# Landing detection: transitioned from airborne to on-floor
+	if was_airborne and is_on_floor():
+		landing = true
+		$AnimatedSprite.play("land")
+
+	# While landing animation plays, skip normal animation selection
+	if landing:
+		if $AnimatedSprite.animation == "land" and not $AnimatedSprite.is_playing():
+			landing = false
+		else:
+			was_airborne = false
+			return
+
+	# Wall climb and ledge grab stubs
+	_handle_wall_climb(move_left, move_right)
+	_handle_ledge_grab()
+
+	# Animation selection
+	if dashing:
+		$AnimatedSprite.play("dash")
+	elif ledge_grabbing:
+		$AnimatedSprite.play("ledge_grab")
+	elif wall_climbing:
+		$AnimatedSprite.play("wall_climb")
+	elif velocity.y < 0:
 		$AnimatedSprite.play("jump")
 	elif velocity.y > 0:
 		$AnimatedSprite.play("fall")
@@ -69,13 +136,49 @@ func _physics_process(delta):
 	else:
 		$AnimatedSprite.play("idle")
 
+	was_airborne = not is_on_floor()
+
+
+func _handle_wall_climb(move_left, move_right):
+	if not wall_climb_unlocked:
+		wall_climbing = false
+		return
+	if is_on_floor() or not is_on_wall():
+		wall_climbing = false
+		return
+	var toward_wall = (move_right > 0 and not $AnimatedSprite.flip_h) or \
+					  (move_left > 0 and $AnimatedSprite.flip_h)
+	if toward_wall:
+		wall_climbing = true
+		velocity.y = clamp(velocity.y, -GRAVITY, 30)
+	else:
+		wall_climbing = false
+
+
+func _handle_ledge_grab():
+	if not ledge_grab_unlocked:
+		ledge_grabbing = false
+		return
+	# Stub: full ledge edge detection and snap logic goes here
+	ledge_grabbing = false
+
 
 func _input(event):
 	if frozen:
 		return
-	if event.is_action_pressed("ui_accept") and is_on_floor() and jump_unlocked:
+	if event.is_action_pressed("ui_up") and is_on_floor() and jump_unlocked:
 		velocity.y -= JUMP_FORCE
+	if event.is_action_pressed("ui_select") and dash_unlocked:
+		_do_dash()
 
+
+func _do_dash():
+	if dash_cooldown_timer > 0:
+		return
+	dashing = true
+	dash_timer = DASH_DURATION
+	dash_cooldown_timer = DASH_COOLDOWN
+	dash_direction = -1 if $AnimatedSprite.flip_h else 1
 
 
 var respawn_checkpoint_node_ref : Node2D
