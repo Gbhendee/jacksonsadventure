@@ -25,13 +25,8 @@ stretch_mode = 1
 tile_set = ExtResource( 1 )
 cell_size = Vector2( 16, 16 )
 format = 1
-# TODO: Replace Ground_TileSet.tres with cave tileset once cave assets are finalized.
-# Tile data (cave floor etc.) to be added in a future session.
 
-[node name="Floor" type="StaticBody2D" parent="."]
-position = Vector2( 800, 416 )
-
-[node name="CollisionShape2D" type="CollisionShape2D" parent="Floor"]
+[node name="Floor@CollisionShape2D" type="CollisionShape2D" parent="."]
 shape = SubResource( 1 )
 
 [node name="Player" parent="." instance=ExtResource( 2 )]
@@ -45,3 +40,8 @@ limit_left = 0
 limit_top = 0
 limit_right = 3000
 limit_bottom = 1200
+
+[node name="World" type="Node2D" parent="."]
+
+[node name="Ground" type="TileMap" parent="World"]
+format = 1
