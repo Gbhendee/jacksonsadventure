@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Fall (32x32).png-a9cc0390b4e4eba045df655d06cfeb37.stex"
+path="res://.import/Fall (32x32).png-ef0764597633b8f908cdd32de815792a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Main Characters/Virtual Guy/Fall (32x32).png"
-dest_files=[ "res://.import/Fall (32x32).png-a9cc0390b4e4eba045df655d06cfeb37.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Main Characters/Virtual Guy/Fall (32x32).png"
+dest_files=[ "res://.import/Fall (32x32).png-ef0764597633b8f908cdd32de815792a.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Idle (36x30).png-03e24f04bccd6795fe681f2e0ccaf9d8.stex"
+path="res://.import/Idle (36x30).png-2d880a82f85031083a236bed64c9df94.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/AngryPig/Idle (36x30).png"
-dest_files=[ "res://.import/Idle (36x30).png-03e24f04bccd6795fe681f2e0ccaf9d8.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/AngryPig/Idle (36x30).png"
+dest_files=[ "res://.import/Idle (36x30).png-2d880a82f85031083a236bed64c9df94.stex" ]
 
 [params]
 

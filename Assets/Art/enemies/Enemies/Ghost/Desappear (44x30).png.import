@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Desappear (44x30).png-3b64ae488791d7082e532c0e690e836c.stex"
+path="res://.import/Desappear (44x30).png-767946cc608f75bc2989716c4598432a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Ghost/Desappear (44x30).png"
-dest_files=[ "res://.import/Desappear (44x30).png-3b64ae488791d7082e532c0e690e836c.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Ghost/Desappear (44x30).png"
+dest_files=[ "res://.import/Desappear (44x30).png-767946cc608f75bc2989716c4598432a.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/On (32x10).png-a03a25afff8111f9dd73001f4cb8a341.stex"
+path="res://.import/On (32x10).png-064c6624e97cdddd93a16f65a2589261.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Traps/Falling Platforms/On (32x10).png"
-dest_files=[ "res://.import/On (32x10).png-a03a25afff8111f9dd73001f4cb8a341.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Traps/Falling Platforms/On (32x10).png"
+dest_files=[ "res://.import/On (32x10).png-064c6624e97cdddd93a16f65a2589261.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Sand Mud Ice (16x6).png-411be29723338a292175823bfaa588aa.stex"
+path="res://.import/Sand Mud Ice (16x6).png-430f5748c967909b1733fe8e30a28d4e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Traps/Sand Mud Ice/Sand Mud Ice (16x6).png"
-dest_files=[ "res://.import/Sand Mud Ice (16x6).png-411be29723338a292175823bfaa588aa.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Traps/Sand Mud Ice/Sand Mud Ice (16x6).png"
+dest_files=[ "res://.import/Sand Mud Ice (16x6).png-430f5748c967909b1733fe8e30a28d4e.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Fall.png-675b59b207d682c93e2ff390c57dc8e8.stex"
+path="res://.import/Fall.png-5d942f1345c74cde3777c1e97110954f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Bunny/Fall.png"
-dest_files=[ "res://.import/Fall.png-675b59b207d682c93e2ff390c57dc8e8.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Bunny/Fall.png"
+dest_files=[ "res://.import/Fall.png-5d942f1345c74cde3777c1e97110954f.stex" ]
 
 [params]
 

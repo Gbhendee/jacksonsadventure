@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat03_ledgeidle_strip8.png-93e7d5475d2e8a52df6962cdd4727480.stex"
+path="res://.import/cat03_ledgeidle_strip8.png-47770643f51b5624eae34e83c2723872.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/catset_spritesheets/Tiger/cat03_ledgeidle_strip8.png"
-dest_files=[ "res://.import/cat03_ledgeidle_strip8.png-93e7d5475d2e8a52df6962cdd4727480.stex" ]
+source_file="res://Assets/Art/characters/npcs/Tiger/cat03_ledgeidle_strip8.png"
+dest_files=[ "res://.import/cat03_ledgeidle_strip8.png-47770643f51b5624eae34e83c2723872.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Mud Particle.png-019587bd115edf328ade216339af7607.stex"
+path="res://.import/Mud Particle.png-f42be71b1ef038911c4ff05dcb1f1361.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Traps/Sand Mud Ice/Mud Particle.png"
-dest_files=[ "res://.import/Mud Particle.png-019587bd115edf328ade216339af7607.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Traps/Sand Mud Ice/Mud Particle.png"
+dest_files=[ "res://.import/Mud Particle.png-f42be71b1ef038911c4ff05dcb1f1361.stex" ]
 
 [params]
 

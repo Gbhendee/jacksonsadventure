@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/Block Break 1.wav-917b175ca383912de2a2604566fcaef1.sample"
+path="res://.import/Block Break 1.wav-1fb11cd7b68193f28852d006b48f644e.sample"
 
 [deps]
 
-source_file="res://Assets/AudioAssets/Block Break 1.wav"
-dest_files=[ "res://.import/Block Break 1.wav-917b175ca383912de2a2604566fcaef1.sample" ]
+source_file="res://Assets/Audio/AudioAssets/Block Break 1.wav"
+dest_files=[ "res://.import/Block Break 1.wav-1fb11cd7b68193f28852d006b48f644e.sample" ]
 
 [params]
 

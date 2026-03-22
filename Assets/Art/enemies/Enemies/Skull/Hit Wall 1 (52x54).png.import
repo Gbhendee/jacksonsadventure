@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Hit Wall 1 (52x54).png-7a9c6fe15ac9e66ec5633a8c1bde4a63.stex"
+path="res://.import/Hit Wall 1 (52x54).png-725da2bff9ce45f35e4b99b9c61cf05f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Skull/Hit Wall 1 (52x54).png"
-dest_files=[ "res://.import/Hit Wall 1 (52x54).png-7a9c6fe15ac9e66ec5633a8c1bde4a63.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Skull/Hit Wall 1 (52x54).png"
+dest_files=[ "res://.import/Hit Wall 1 (52x54).png-725da2bff9ce45f35e4b99b9c61cf05f.stex" ]
 
 [params]
 

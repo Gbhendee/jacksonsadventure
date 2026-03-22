@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Run (32x32).png-84af532604d09f639cf48826288cd162.stex"
+path="res://.import/Run (32x32).png-f3da5b02c08852104dd781d5463b8691.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Main Characters/Ninja Frog/Run (32x32).png"
-dest_files=[ "res://.import/Run (32x32).png-84af532604d09f639cf48826288cd162.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Main Characters/Ninja Frog/Run (32x32).png"
+dest_files=[ "res://.import/Run (32x32).png-f3da5b02c08852104dd781d5463b8691.stex" ]
 
 [params]
 

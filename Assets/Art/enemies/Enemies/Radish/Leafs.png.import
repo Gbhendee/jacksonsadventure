@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Leafs.png-e8a96e45fa39f50951d2f0029ec24153.stex"
+path="res://.import/Leafs.png-d69cea661cf4c5b6697e92a16456aad3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Radish/Leafs.png"
-dest_files=[ "res://.import/Leafs.png-e8a96e45fa39f50951d2f0029ec24153.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Radish/Leafs.png"
+dest_files=[ "res://.import/Leafs.png-d69cea661cf4c5b6697e92a16456aad3.stex" ]
 
 [params]
 

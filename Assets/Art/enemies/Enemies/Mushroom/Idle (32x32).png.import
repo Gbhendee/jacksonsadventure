@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Idle (32x32).png-e8fd16aa7118b9b2d9111dcccaabe30c.stex"
+path="res://.import/Idle (32x32).png-b5f4c5f4516fbf1eb77359349c3cc8d8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Mushroom/Idle (32x32).png"
-dest_files=[ "res://.import/Idle (32x32).png-e8fd16aa7118b9b2d9111dcccaabe30c.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Mushroom/Idle (32x32).png"
+dest_files=[ "res://.import/Idle (32x32).png-b5f4c5f4516fbf1eb77359349c3cc8d8.stex" ]
 
 [params]
 

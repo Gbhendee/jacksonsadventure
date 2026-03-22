@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/End (Pressed) (64x64).png-b737065ab4203d24cc57dcd178c1b3fb.stex"
+path="res://.import/End (Pressed) (64x64).png-c5ad6b09567ada9fff69019b45fd883b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Items/Checkpoints/End/End (Pressed) (64x64).png"
-dest_files=[ "res://.import/End (Pressed) (64x64).png-b737065ab4203d24cc57dcd178c1b3fb.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Items/Checkpoints/End/End (Pressed) (64x64).png"
+dest_files=[ "res://.import/End (Pressed) (64x64).png-c5ad6b09567ada9fff69019b45fd883b.stex" ]
 
 [params]
 

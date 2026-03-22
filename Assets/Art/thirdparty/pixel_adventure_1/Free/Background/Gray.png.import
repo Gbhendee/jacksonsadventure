@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Gray.png-43badb28c70030d022018950522d0030.stex"
+path="res://.import/Gray.png-47bd9ef0ac8899b025f9e18c9ceaab8a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Background/Gray.png"
-dest_files=[ "res://.import/Gray.png-43badb28c70030d022018950522d0030.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Background/Gray.png"
+dest_files=[ "res://.import/Gray.png-47bd9ef0ac8899b025f9e18c9ceaab8a.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Pineapple.png-cf4efb015445f2db3ae292c5103d70d5.stex"
+path="res://.import/Pineapple.png-3629e141962149625d75622c2d14a5fa.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Items/Fruits/Pineapple.png"
-dest_files=[ "res://.import/Pineapple.png-cf4efb015445f2db3ae292c5103d70d5.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Items/Fruits/Pineapple.png"
+dest_files=[ "res://.import/Pineapple.png-3629e141962149625d75622c2d14a5fa.stex" ]
 
 [params]
 

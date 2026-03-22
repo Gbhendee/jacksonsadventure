@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/Big Egg collect 1.wav-c0a66535e2dca9fe7936f54d0320bec0.sample"
+path="res://.import/Big Egg collect 1.wav-819fce75032de34d38fb79f13ac0f149.sample"
 
 [deps]
 
-source_file="res://Assets/AudioAssets/Big Egg collect 1.wav"
-dest_files=[ "res://.import/Big Egg collect 1.wav-c0a66535e2dca9fe7936f54d0320bec0.sample" ]
+source_file="res://Assets/Audio/AudioAssets/Big Egg collect 1.wav"
+dest_files=[ "res://.import/Big Egg collect 1.wav-819fce75032de34d38fb79f13ac0f149.sample" ]
 
 [params]
 

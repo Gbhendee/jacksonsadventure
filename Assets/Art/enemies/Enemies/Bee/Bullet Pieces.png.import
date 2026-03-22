@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Bullet Pieces.png-e7038ac56ea1441f6080764e9e86c80f.stex"
+path="res://.import/Bullet Pieces.png-117231c0810e04bdde89e643bece54bd.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Bee/Bullet Pieces.png"
-dest_files=[ "res://.import/Bullet Pieces.png-e7038ac56ea1441f6080764e9e86c80f.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Bee/Bullet Pieces.png"
+dest_files=[ "res://.import/Bullet Pieces.png-117231c0810e04bdde89e643bece54bd.stex" ]
 
 [params]
 

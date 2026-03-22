@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat05_wallgrab_strip8.png-59c6076a1d75842e2bfa4f762abbb0b5.stex"
+path="res://.import/cat05_wallgrab_strip8.png-bda02bf2c59805dc281afd0be0be4032.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/catset_spritesheets/blackghost/cat05_wallgrab_strip8.png"
-dest_files=[ "res://.import/cat05_wallgrab_strip8.png-59c6076a1d75842e2bfa4f762abbb0b5.stex" ]
+source_file="res://Assets/Art/characters/npcs/blackghost/cat05_wallgrab_strip8.png"
+dest_files=[ "res://.import/cat05_wallgrab_strip8.png-bda02bf2c59805dc281afd0be0be4032.stex" ]
 
 [params]
 

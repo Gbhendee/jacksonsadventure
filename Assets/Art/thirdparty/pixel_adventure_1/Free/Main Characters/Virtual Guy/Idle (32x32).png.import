@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Idle (32x32).png-1e40ad24a3cf453a9ca6934432dccc51.stex"
+path="res://.import/Idle (32x32).png-5bd25dbcf35b283a2b175ce8d7c6626a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Main Characters/Virtual Guy/Idle (32x32).png"
-dest_files=[ "res://.import/Idle (32x32).png-1e40ad24a3cf453a9ca6934432dccc51.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Main Characters/Virtual Guy/Idle (32x32).png"
+dest_files=[ "res://.import/Idle (32x32).png-5bd25dbcf35b283a2b175ce8d7c6626a.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat01_idle_blink_strip8.png-aa8c5b5883b4d070f196ad28e923f054.stex"
+path="res://.import/cat01_idle_blink_strip8.png-7f25f1bfd865a2af4c5d7d70d05ce3a1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/catset_spritesheets/snickers/cat01_idle_blink_strip8.png"
-dest_files=[ "res://.import/cat01_idle_blink_strip8.png-aa8c5b5883b4d070f196ad28e923f054.stex" ]
+source_file="res://Assets/Art/characters/npcs/snickers/cat01_idle_blink_strip8.png"
+dest_files=[ "res://.import/cat01_idle_blink_strip8.png-7f25f1bfd865a2af4c5d7d70d05ce3a1.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Walk (38x24).png-94ff6b5ca9c248202260a4a59c8388e3.stex"
+path="res://.import/Walk (38x24).png-940cf2abb292fa610d54879afbca4de5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Snail/Walk (38x24).png"
-dest_files=[ "res://.import/Walk (38x24).png-94ff6b5ca9c248202260a4a59c8388e3.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Snail/Walk (38x24).png"
+dest_files=[ "res://.import/Walk (38x24).png-940cf2abb292fa610d54879afbca4de5.stex" ]
 
 [params]
 

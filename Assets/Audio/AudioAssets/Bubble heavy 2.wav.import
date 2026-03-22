@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/Bubble heavy 2.wav-c6e359eadc5f3759824866905d6585c6.sample"
+path="res://.import/Bubble heavy 2.wav-388c80ead0f8c1b52a4ceff151cfda30.sample"
 
 [deps]
 
-source_file="res://Assets/AudioAssets/Bubble heavy 2.wav"
-dest_files=[ "res://.import/Bubble heavy 2.wav-c6e359eadc5f3759824866905d6585c6.sample" ]
+source_file="res://Assets/Audio/AudioAssets/Bubble heavy 2.wav"
+dest_files=[ "res://.import/Bubble heavy 2.wav-388c80ead0f8c1b52a4ceff151cfda30.sample" ]
 
 [params]
 

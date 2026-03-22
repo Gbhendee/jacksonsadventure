@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Chain.png-1543930c89d3ef9aa0ef0d907b45ebc9.stex"
+path="res://.import/Chain.png-82e434e6878044a436b5c293cd64d8fa.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Traps/Saw/Chain.png"
-dest_files=[ "res://.import/Chain.png-1543930c89d3ef9aa0ef0d907b45ebc9.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Traps/Saw/Chain.png"
+dest_files=[ "res://.import/Chain.png-82e434e6878044a436b5c293cd64d8fa.stex" ]
 
 [params]
 

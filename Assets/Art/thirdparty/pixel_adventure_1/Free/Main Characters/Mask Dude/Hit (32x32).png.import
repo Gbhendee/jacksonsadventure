@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Hit (32x32).png-94589d7e09ce94812f0adecc537e0875.stex"
+path="res://.import/Hit (32x32).png-877749973075dd83d85706b3110dec3f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Main Characters/Mask Dude/Hit (32x32).png"
-dest_files=[ "res://.import/Hit (32x32).png-94589d7e09ce94812f0adecc537e0875.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Main Characters/Mask Dude/Hit (32x32).png"
+dest_files=[ "res://.import/Hit (32x32).png-877749973075dd83d85706b3110dec3f.stex" ]
 
 [params]
 

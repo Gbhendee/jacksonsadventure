@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/Track 6 (Traffic Lights).wav-eac230159a43fc7b31335c4a16207686.sample"
+path="res://.import/Track 6 (Traffic Lights).wav-6d960cb57817957d94ef750764dd214f.sample"
 
 [deps]
 
-source_file="res://Assets/AudioAssets/Track 6 (Traffic Lights).wav"
-dest_files=[ "res://.import/Track 6 (Traffic Lights).wav-eac230159a43fc7b31335c4a16207686.sample" ]
+source_file="res://Assets/Audio/AudioAssets/Track 6 (Traffic Lights).wav"
+dest_files=[ "res://.import/Track 6 (Traffic Lights).wav-6d960cb57817957d94ef750764dd214f.sample" ]
 
 [params]
 

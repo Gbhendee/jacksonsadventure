@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Start (Idle).png-6684a0335114ba0b8bb215663a3a563f.stex"
+path="res://.import/Start (Idle).png-1e6ebadc2e215d379dd4d816a6191b1d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Items/Checkpoints/Start/Start (Idle).png"
-dest_files=[ "res://.import/Start (Idle).png-6684a0335114ba0b8bb215663a3a563f.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Items/Checkpoints/Start/Start (Idle).png"
+dest_files=[ "res://.import/Start (Idle).png-1e6ebadc2e215d379dd4d816a6191b1d.stex" ]
 
 [params]
 

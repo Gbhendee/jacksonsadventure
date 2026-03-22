@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Hit (52x34).png-cabba092a73bc91f18255e37c1a3a0f7.stex"
+path="res://.import/Hit (52x34).png-54b99ecf23510722937a7ce70b3133ce.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Rino/Hit (52x34).png"
-dest_files=[ "res://.import/Hit (52x34).png-cabba092a73bc91f18255e37c1a3a0f7.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Rino/Hit (52x34).png"
+dest_files=[ "res://.import/Hit (52x34).png-54b99ecf23510722937a7ce70b3133ce.stex" ]
 
 [params]
 

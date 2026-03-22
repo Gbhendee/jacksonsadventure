@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/Blow 1V2.wav-9515428f86796e8dc56f2f8fa35e035a.sample"
+path="res://.import/Blow 1V2.wav-5359534c1998a1f0723b8d6b48943bca.sample"
 
 [deps]
 
-source_file="res://Assets/AudioAssets/Blow 1V2.wav"
-dest_files=[ "res://.import/Blow 1V2.wav-9515428f86796e8dc56f2f8fa35e035a.sample" ]
+source_file="res://Assets/Audio/AudioAssets/Blow 1V2.wav"
+dest_files=[ "res://.import/Blow 1V2.wav-5359534c1998a1f0723b8d6b48943bca.sample" ]
 
 [params]
 

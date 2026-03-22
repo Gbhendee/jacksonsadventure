@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Run (64x32).png-eea79e4706070fd0fe1b42aea2632e83.stex"
+path="res://.import/Run (64x32).png-b5a3a8b920af094321cde381ad4a5ec2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Trunk/Run (64x32).png"
-dest_files=[ "res://.import/Run (64x32).png-eea79e4706070fd0fe1b42aea2632e83.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Trunk/Run (64x32).png"
+dest_files=[ "res://.import/Run (64x32).png-b5a3a8b920af094321cde381ad4a5ec2.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="mp3"
 type="AudioStreamMP3"
-path="res://.import/Blow 1V2.mp3-9c095e803b46bb20368590936dbc3402.mp3str"
+path="res://.import/Blow 1V2.mp3-138dbb8ad9d102a83cdc02acbc72cdde.mp3str"
 
 [deps]
 
-source_file="res://Assets/AudioAssets/Blow 1V2.mp3"
-dest_files=[ "res://.import/Blow 1V2.mp3-9c095e803b46bb20368590936dbc3402.mp3str" ]
+source_file="res://Assets/Audio/AudioAssets/Blow 1V2.mp3"
+dest_files=[ "res://.import/Blow 1V2.mp3-138dbb8ad9d102a83cdc02acbc72cdde.mp3str" ]
 
 [params]
 

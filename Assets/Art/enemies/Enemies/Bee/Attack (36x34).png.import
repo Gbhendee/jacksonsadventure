@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Attack (36x34).png-c1ae2a66e4ce81cd0a706ced97e78bd9.stex"
+path="res://.import/Attack (36x34).png-117f83cac2be139ebab3d07d48011755.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Bee/Attack (36x34).png"
-dest_files=[ "res://.import/Attack (36x34).png-c1ae2a66e4ce81cd0a706ced97e78bd9.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Bee/Attack (36x34).png"
+dest_files=[ "res://.import/Attack (36x34).png-117f83cac2be139ebab3d07d48011755.stex" ]
 
 [params]
 

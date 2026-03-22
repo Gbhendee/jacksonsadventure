@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Idle 1 (30x38).png-80ec550d17883237da1b4221d685df5b.stex"
+path="res://.import/Idle 1 (30x38).png-9a5ce909dae8aa765a49accc8864da34.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Radish/Idle 1 (30x38).png"
-dest_files=[ "res://.import/Idle 1 (30x38).png-80ec550d17883237da1b4221d685df5b.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Radish/Idle 1 (30x38).png"
+dest_files=[ "res://.import/Idle 1 (30x38).png-9a5ce909dae8aa765a49accc8864da34.stex" ]
 
 [params]
 

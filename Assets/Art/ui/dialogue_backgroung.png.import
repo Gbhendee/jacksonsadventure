@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/dialogue_backgroung.png-07d1070ee984a4d19cdbc2c1a7c2c0af.stex"
+path="res://.import/dialogue_backgroung.png-61ef6054a696e63d6a6cda824ecd0233.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Dialog9Rects/dialogue_backgroung.png"
-dest_files=[ "res://.import/dialogue_backgroung.png-07d1070ee984a4d19cdbc2c1a7c2c0af.stex" ]
+source_file="res://Assets/Art/ui/dialogue_backgroung.png"
+dest_files=[ "res://.import/dialogue_backgroung.png-61ef6054a696e63d6a6cda824ecd0233.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Snail without shell.png-31606a1498e6d256d7007793ea57236b.stex"
+path="res://.import/Snail without shell.png-66c08655f9fbd29f1096517a0008702a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Snail/Snail without shell.png"
-dest_files=[ "res://.import/Snail without shell.png-31606a1498e6d256d7007793ea57236b.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Snail/Snail without shell.png"
+dest_files=[ "res://.import/Snail without shell.png-66c08655f9fbd29f1096517a0008702a.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Leaderboard.png-bf2bf49be2fca56f610f3dc74b1210b5.stex"
+path="res://.import/Leaderboard.png-6e7da147c156246a86744c99b4aa1b33.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Menu/Buttons/Leaderboard.png"
-dest_files=[ "res://.import/Leaderboard.png-bf2bf49be2fca56f610f3dc74b1210b5.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Menu/Buttons/Leaderboard.png"
+dest_files=[ "res://.import/Leaderboard.png-6e7da147c156246a86744c99b4aa1b33.stex" ]
 
 [params]
 

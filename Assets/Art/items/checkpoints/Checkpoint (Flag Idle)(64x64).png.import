@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Checkpoint (Flag Idle)(64x64).png-6e7b21e05bd48c0472477bd45f5114e9.stex"
+path="res://.import/Checkpoint (Flag Idle)(64x64).png-eecdbd9953dbb3aaf41b1753fe51067a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Items/Checkpoints/Checkpoint/Checkpoint (Flag Idle)(64x64).png"
-dest_files=[ "res://.import/Checkpoint (Flag Idle)(64x64).png-6e7b21e05bd48c0472477bd45f5114e9.stex" ]
+source_file="res://Assets/Art/items/checkpoints/Checkpoint (Flag Idle)(64x64).png"
+dest_files=[ "res://.import/Checkpoint (Flag Idle)(64x64).png-eecdbd9953dbb3aaf41b1753fe51067a.stex" ]
 
 [params]
 

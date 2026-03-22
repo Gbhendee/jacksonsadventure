@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Idle (36x34).png-d022f0dbda991f0f62113d71261bd153.stex"
+path="res://.import/Idle (36x34).png-e9f2078e5c4dde55f2c3dda4f8d8fa84.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Bee/Idle (36x34).png"
-dest_files=[ "res://.import/Idle (36x34).png-d022f0dbda991f0f62113d71261bd153.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Bee/Idle (36x34).png"
+dest_files=[ "res://.import/Idle (36x34).png-e9f2078e5c4dde55f2c3dda4f8d8fa84.stex" ]
 
 [params]
 

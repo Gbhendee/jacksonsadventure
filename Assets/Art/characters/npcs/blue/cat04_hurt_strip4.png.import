@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat04_hurt_strip4.png-d0e5f88e6daf38a6abe2f30e8714f65a.stex"
+path="res://.import/cat04_hurt_strip4.png-96708fbd71f916a6cde8bf53ddaf2fc7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/catset_spritesheets/blue/cat04_hurt_strip4.png"
-dest_files=[ "res://.import/cat04_hurt_strip4.png-d0e5f88e6daf38a6abe2f30e8714f65a.stex" ]
+source_file="res://Assets/Art/characters/npcs/blue/cat04_hurt_strip4.png"
+dest_files=[ "res://.import/cat04_hurt_strip4.png-96708fbd71f916a6cde8bf53ddaf2fc7.stex" ]
 
 [params]
 

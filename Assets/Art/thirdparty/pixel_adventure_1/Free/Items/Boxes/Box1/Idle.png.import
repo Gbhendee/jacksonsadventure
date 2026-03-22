@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Idle.png-578e58ca03c97e3ee5316868f0e7cfca.stex"
+path="res://.import/Idle.png-1deb537c5c7a7375877a5a90a865f422.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Items/Boxes/Box1/Idle.png"
-dest_files=[ "res://.import/Idle.png-578e58ca03c97e3ee5316868f0e7cfca.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Items/Boxes/Box1/Idle.png"
+dest_files=[ "res://.import/Idle.png-1deb537c5c7a7375877a5a90a865f422.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Run (32x32).png-7acc8201245eca502975f05f5f48a125.stex"
+path="res://.import/Run (32x32).png-9bda4f664ca7e484fa353ed83b91573d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Main Characters/Virtual Guy/Run (32x32).png"
-dest_files=[ "res://.import/Run (32x32).png-7acc8201245eca502975f05f5f48a125.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Main Characters/Virtual Guy/Run (32x32).png"
+dest_files=[ "res://.import/Run (32x32).png-9bda4f664ca7e484fa353ed83b91573d.stex" ]
 
 [params]
 

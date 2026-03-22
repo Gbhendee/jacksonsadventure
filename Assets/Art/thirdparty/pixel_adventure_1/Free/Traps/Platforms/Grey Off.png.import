@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Grey Off.png-0e5c21b6b981e639b0e76ede9bc46635.stex"
+path="res://.import/Grey Off.png-dd771e5d11d39a3d42234407a27f3bdf.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Traps/Platforms/Grey Off.png"
-dest_files=[ "res://.import/Grey Off.png-0e5c21b6b981e639b0e76ede9bc46635.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Traps/Platforms/Grey Off.png"
+dest_files=[ "res://.import/Grey Off.png-dd771e5d11d39a3d42234407a27f3bdf.stex" ]
 
 [params]
 

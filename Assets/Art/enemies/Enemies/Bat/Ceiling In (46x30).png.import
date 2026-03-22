@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Ceiling In (46x30).png-cf9923ff531c5399b6a09c89d8e4fd4f.stex"
+path="res://.import/Ceiling In (46x30).png-fc6bd6f0c0897c771cc072e53a380e16.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Bat/Ceiling In (46x30).png"
-dest_files=[ "res://.import/Ceiling In (46x30).png-cf9923ff531c5399b6a09c89d8e4fd4f.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Bat/Ceiling In (46x30).png"
+dest_files=[ "res://.import/Ceiling In (46x30).png-fc6bd6f0c0897c771cc072e53a380e16.stex" ]
 
 [params]
 

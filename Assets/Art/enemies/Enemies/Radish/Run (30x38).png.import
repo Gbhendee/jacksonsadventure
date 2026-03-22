@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Run (30x38).png-d7e54196d4720f38250671ee4d0bda8e.stex"
+path="res://.import/Run (30x38).png-2e73654120f2965d5a1ae4c2240b7967.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Radish/Run (30x38).png"
-dest_files=[ "res://.import/Run (30x38).png-d7e54196d4720f38250671ee4d0bda8e.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Radish/Run (30x38).png"
+dest_files=[ "res://.import/Run (30x38).png-2e73654120f2965d5a1ae4c2240b7967.stex" ]
 
 [params]
 

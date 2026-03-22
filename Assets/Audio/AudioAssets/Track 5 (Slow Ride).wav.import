@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/Track 5 (Slow Ride).wav-e2b342954b4a3f187073ab041b2d31da.sample"
+path="res://.import/Track 5 (Slow Ride).wav-3d2dcf9a056699d6281f60463d516939.sample"
 
 [deps]
 
-source_file="res://Assets/AudioAssets/Track 5 (Slow Ride).wav"
-dest_files=[ "res://.import/Track 5 (Slow Ride).wav-e2b342954b4a3f187073ab041b2d31da.sample" ]
+source_file="res://Assets/Audio/AudioAssets/Track 5 (Slow Ride).wav"
+dest_files=[ "res://.import/Track 5 (Slow Ride).wav-3d2dcf9a056699d6281f60463d516939.sample" ]
 
 [params]
 

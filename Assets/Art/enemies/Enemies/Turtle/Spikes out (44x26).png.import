@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Spikes out (44x26).png-52e99e4bd7caf351d406ce88129c3e25.stex"
+path="res://.import/Spikes out (44x26).png-2d89513cd063bed430cbc99be482b57a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Turtle/Spikes out (44x26).png"
-dest_files=[ "res://.import/Spikes out (44x26).png-52e99e4bd7caf351d406ce88129c3e25.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Turtle/Spikes out (44x26).png"
+dest_files=[ "res://.import/Spikes out (44x26).png-2d89513cd063bed430cbc99be482b57a.stex" ]
 
 [params]
 

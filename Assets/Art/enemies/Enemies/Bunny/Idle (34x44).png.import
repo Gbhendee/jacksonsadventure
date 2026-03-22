@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Idle (34x44).png-e71264282dd648278247c9d870313903.stex"
+path="res://.import/Idle (34x44).png-ceb07fe71da799c48468b1d5e1790dd1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Bunny/Idle (34x44).png"
-dest_files=[ "res://.import/Idle (34x44).png-e71264282dd648278247c9d870313903.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Bunny/Idle (34x44).png"
+dest_files=[ "res://.import/Idle (34x44).png-ceb07fe71da799c48468b1d5e1790dd1.stex" ]
 
 [params]
 

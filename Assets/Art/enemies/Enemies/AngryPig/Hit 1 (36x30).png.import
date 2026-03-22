@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Hit 1 (36x30).png-b0a750f1c4dc6ebefc6ee956a193e7e0.stex"
+path="res://.import/Hit 1 (36x30).png-69f277d1810e8f91af7b7c64f74e6717.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/AngryPig/Hit 1 (36x30).png"
-dest_files=[ "res://.import/Hit 1 (36x30).png-b0a750f1c4dc6ebefc6ee956a193e7e0.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/AngryPig/Hit 1 (36x30).png"
+dest_files=[ "res://.import/Hit 1 (36x30).png-69f277d1810e8f91af7b7c64f74e6717.stex" ]
 
 [params]
 

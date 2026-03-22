@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Ice Particle.png-328b7463ede80bf19a18881a83199cfa.stex"
+path="res://.import/Ice Particle.png-ee3053184aa51cb83eec6f7ad4de4dc8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Traps/Sand Mud Ice/Ice Particle.png"
-dest_files=[ "res://.import/Ice Particle.png-328b7463ede80bf19a18881a83199cfa.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Traps/Sand Mud Ice/Ice Particle.png"
+dest_files=[ "res://.import/Ice Particle.png-ee3053184aa51cb83eec6f7ad4de4dc8.stex" ]
 
 [params]
 

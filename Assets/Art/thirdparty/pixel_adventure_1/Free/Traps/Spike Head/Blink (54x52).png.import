@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Blink (54x52).png-8c614b36ced36d5a95b473784fbccb31.stex"
+path="res://.import/Blink (54x52).png-0e15ad3ba157c2cb6317c9f6a65320b8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Traps/Spike Head/Blink (54x52).png"
-dest_files=[ "res://.import/Blink (54x52).png-8c614b36ced36d5a95b473784fbccb31.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Traps/Spike Head/Blink (54x52).png"
+dest_files=[ "res://.import/Blink (54x52).png-0e15ad3ba157c2cb6317c9f6a65320b8.stex" ]
 
 [params]
 

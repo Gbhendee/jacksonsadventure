@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Hit (30x38).png-8b28c3aea3ddc2633f1435aea8fe5e66.stex"
+path="res://.import/Hit (30x38).png-9a0e7f6ef13587144f77ff80fa996926.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Radish/Hit (30x38).png"
-dest_files=[ "res://.import/Hit (30x38).png-8b28c3aea3ddc2633f1435aea8fe5e66.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Radish/Hit (30x38).png"
+dest_files=[ "res://.import/Hit (30x38).png-9a0e7f6ef13587144f77ff80fa996926.stex" ]
 
 [params]
 

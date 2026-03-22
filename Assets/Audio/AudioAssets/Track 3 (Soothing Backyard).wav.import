@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/Track 3 (Soothing Backyard).wav-6b2013ead21bf268fc898a0d19bd40f6.sample"
+path="res://.import/Track 3 (Soothing Backyard).wav-14878a4464a44eaf5a4ffb96b10cbd46.sample"
 
 [deps]
 
-source_file="res://Assets/AudioAssets/Track 3 (Soothing Backyard).wav"
-dest_files=[ "res://.import/Track 3 (Soothing Backyard).wav-6b2013ead21bf268fc898a0d19bd40f6.sample" ]
+source_file="res://Assets/Audio/AudioAssets/Track 3 (Soothing Backyard).wav"
+dest_files=[ "res://.import/Track 3 (Soothing Backyard).wav-14878a4464a44eaf5a4ffb96b10cbd46.sample" ]
 
 [params]
 

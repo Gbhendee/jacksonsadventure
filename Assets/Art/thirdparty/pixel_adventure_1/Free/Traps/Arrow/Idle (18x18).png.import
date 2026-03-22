@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Idle (18x18).png-0942084fe5ec1b2703de4cd702f7b957.stex"
+path="res://.import/Idle (18x18).png-dc6f772d7397008d3a8fe15b5f371b26.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Traps/Arrow/Idle (18x18).png"
-dest_files=[ "res://.import/Idle (18x18).png-0942084fe5ec1b2703de4cd702f7b957.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Traps/Arrow/Idle (18x18).png"
+dest_files=[ "res://.import/Idle (18x18).png-dc6f772d7397008d3a8fe15b5f371b26.stex" ]
 
 [params]
 

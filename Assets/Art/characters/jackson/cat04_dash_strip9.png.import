@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat04_dash_strip9.png-98e74a0ec569224088a4fd3c71808382.stex"
+path="res://.import/cat04_dash_strip9.png-ed9436f28b67f9cec6bc5a54403c22d9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/jax_spritesheets/cat04_dash_strip9.png"
-dest_files=[ "res://.import/cat04_dash_strip9.png-98e74a0ec569224088a4fd3c71808382.stex" ]
+source_file="res://Assets/Art/characters/jackson/cat04_dash_strip9.png"
+dest_files=[ "res://.import/cat04_dash_strip9.png-ed9436f28b67f9cec6bc5a54403c22d9.stex" ]
 
 [params]
 

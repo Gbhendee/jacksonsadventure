@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/48.png-0b080aa93fbb82e6a93efd483056554f.stex"
+path="res://.import/48.png-4dddb4647923cf584b2b748d12054372.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Menu/Levels/48.png"
-dest_files=[ "res://.import/48.png-0b080aa93fbb82e6a93efd483056554f.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Menu/Levels/48.png"
+dest_files=[ "res://.import/48.png-4dddb4647923cf584b2b748d12054372.stex" ]
 
 [params]
 

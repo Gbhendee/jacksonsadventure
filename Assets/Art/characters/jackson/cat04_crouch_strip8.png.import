@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat04_crouch_strip8.png-c5f3c469d57f954c12a0a21de38de502.stex"
+path="res://.import/cat04_crouch_strip8.png-6164b9feb259d7af13356bd0ccffceb1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/jax_spritesheets/cat04_crouch_strip8.png"
-dest_files=[ "res://.import/cat04_crouch_strip8.png-c5f3c469d57f954c12a0a21de38de502.stex" ]
+source_file="res://Assets/Art/characters/jackson/cat04_crouch_strip8.png"
+dest_files=[ "res://.import/cat04_crouch_strip8.png-6164b9feb259d7af13356bd0ccffceb1.stex" ]
 
 [params]
 

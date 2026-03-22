@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Flying (46x30).png-31d4004e1f7a78bada5babfb7cea04dd.stex"
+path="res://.import/Flying (46x30).png-38f806ddb2ed39cea2370a7ad8e6b3e4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Bat/Flying (46x30).png"
-dest_files=[ "res://.import/Flying (46x30).png-31d4004e1f7a78bada5babfb7cea04dd.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Bat/Flying (46x30).png"
+dest_files=[ "res://.import/Flying (46x30).png-38f806ddb2ed39cea2370a7ad8e6b3e4.stex" ]
 
 [params]
 

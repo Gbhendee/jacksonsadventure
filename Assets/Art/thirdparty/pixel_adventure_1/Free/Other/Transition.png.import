@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Transition.png-8d7815350821de8dd2857ac641223165.stex"
+path="res://.import/Transition.png-5ab934358e6655c03d64511b82b63f6d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Other/Transition.png"
-dest_files=[ "res://.import/Transition.png-8d7815350821de8dd2857ac641223165.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Other/Transition.png"
+dest_files=[ "res://.import/Transition.png-5ab934358e6655c03d64511b82b63f6d.stex" ]
 
 [params]
 

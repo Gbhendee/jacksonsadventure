@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Fall (32x32).png-f853bd715cc4d06163e5e0a4e11d7c69.stex"
+path="res://.import/Fall (32x32).png-2621138c3eaf9545826bcec739003e4a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Main Characters/Ninja Frog/Fall (32x32).png"
-dest_files=[ "res://.import/Fall (32x32).png-f853bd715cc4d06163e5e0a4e11d7c69.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Main Characters/Ninja Frog/Fall (32x32).png"
+dest_files=[ "res://.import/Fall (32x32).png-2621138c3eaf9545826bcec739003e4a.stex" ]
 
 [params]
 

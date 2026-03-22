@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Strawberry.png-94f0836ede35dcc039e9fdfe197b2362.stex"
+path="res://.import/Strawberry.png-32642c4596e54ea25521cb7d69d8e3cf.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Items/Fruits/Strawberry.png"
-dest_files=[ "res://.import/Strawberry.png-94f0836ede35dcc039e9fdfe197b2362.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Items/Fruits/Strawberry.png"
+dest_files=[ "res://.import/Strawberry.png-32642c4596e54ea25521cb7d69d8e3cf.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Idle (84x38).png-7a0efa8a27cde0c5774d585def6491ce.stex"
+path="res://.import/Idle (84x38).png-1ff8556cb4c98be30d98b59f067795c8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Chameleon/Idle (84x38).png"
-dest_files=[ "res://.import/Idle (84x38).png-7a0efa8a27cde0c5774d585def6491ce.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Chameleon/Idle (84x38).png"
+dest_files=[ "res://.import/Idle (84x38).png-1ff8556cb4c98be30d98b59f067795c8.stex" ]
 
 [params]
 

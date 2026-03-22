@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Hit (44x30).png-fb53418fed41830e5ae222192711c3ec.stex"
+path="res://.import/Hit (44x30).png-18ac82ace757d08b94395a87bbc78401.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Ghost/Hit (44x30).png"
-dest_files=[ "res://.import/Hit (44x30).png-fb53418fed41830e5ae222192711c3ec.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Ghost/Hit (44x30).png"
+dest_files=[ "res://.import/Hit (44x30).png-18ac82ace757d08b94395a87bbc78401.stex" ]
 
 [params]
 

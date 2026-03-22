@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Jax_idle_blink_strip8.png-ec208a5809f0efcd7b68de4caff2fa06.stex"
+path="res://.import/Jax_idle_blink_strip8.png-27d6f959c5831bb183b83ba48db7a555.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/jax_spritesheets/Jax_idle_blink_strip8.png"
-dest_files=[ "res://.import/Jax_idle_blink_strip8.png-ec208a5809f0efcd7b68de4caff2fa06.stex" ]
+source_file="res://Assets/Art/characters/jackson/Jax_idle_blink_strip8.png"
+dest_files=[ "res://.import/Jax_idle_blink_strip8.png-27d6f959c5831bb183b83ba48db7a555.stex" ]
 
 [params]
 

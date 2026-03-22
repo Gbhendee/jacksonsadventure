@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Hit (32x32).png-99a3c053ea7558a87b5d73714c8ab5ed.stex"
+path="res://.import/Hit (32x32).png-886098bf6fbd66448de46032bccb8932.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/BlueBird/Hit (32x32).png"
-dest_files=[ "res://.import/Hit (32x32).png-99a3c053ea7558a87b5d73714c8ab5ed.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/BlueBird/Hit (32x32).png"
+dest_files=[ "res://.import/Hit (32x32).png-886098bf6fbd66448de46032bccb8932.stex" ]
 
 [params]
 

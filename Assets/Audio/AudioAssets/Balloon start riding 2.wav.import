@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/Balloon start riding 2.wav-81337beb01d228506d9c016e7ba8f64d.sample"
+path="res://.import/Balloon start riding 2.wav-0b824890a00e390e97ea1b287cb17913.sample"
 
 [deps]
 
-source_file="res://Assets/AudioAssets/Balloon start riding 2.wav"
-dest_files=[ "res://.import/Balloon start riding 2.wav-81337beb01d228506d9c016e7ba8f64d.sample" ]
+source_file="res://Assets/Audio/AudioAssets/Balloon start riding 2.wav"
+dest_files=[ "res://.import/Balloon start riding 2.wav-0b824890a00e390e97ea1b287cb17913.sample" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat04_ledgeclimb_strip11.png-5c5f97c0946b5cf9c8356983f2654401.stex"
+path="res://.import/cat04_ledgeclimb_strip11.png-8515eeba0079aeaab71db0b1a765d1fe.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/jax_spritesheets/cat04_ledgeclimb_strip11.png"
-dest_files=[ "res://.import/cat04_ledgeclimb_strip11.png-5c5f97c0946b5cf9c8356983f2654401.stex" ]
+source_file="res://Assets/Art/characters/jackson/cat04_ledgeclimb_strip11.png"
+dest_files=[ "res://.import/cat04_ledgeclimb_strip11.png-8515eeba0079aeaab71db0b1a765d1fe.stex" ]
 
 [params]
 

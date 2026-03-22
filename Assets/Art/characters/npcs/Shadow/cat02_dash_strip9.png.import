@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat02_dash_strip9.png-372c545e1883093a7b5f14b58ef397bc.stex"
+path="res://.import/cat02_dash_strip9.png-60e4a6c602ae76e1823bc294c4e593f5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/catset_spritesheets/Shadow/cat02_dash_strip9.png"
-dest_files=[ "res://.import/cat02_dash_strip9.png-372c545e1883093a7b5f14b58ef397bc.stex" ]
+source_file="res://Assets/Art/characters/npcs/Shadow/cat02_dash_strip9.png"
+dest_files=[ "res://.import/cat02_dash_strip9.png-60e4a6c602ae76e1823bc294c4e593f5.stex" ]
 
 [params]
 

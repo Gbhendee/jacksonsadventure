@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/Suck 1.wav-754879f81e4847d61fc676d64b4c934a.sample"
+path="res://.import/Suck 1.wav-868e91807bac453561a94c57abbfb4b6.sample"
 
 [deps]
 
-source_file="res://Assets/AudioAssets/Suck 1.wav"
-dest_files=[ "res://.import/Suck 1.wav-754879f81e4847d61fc676d64b4c934a.sample" ]
+source_file="res://Assets/Audio/AudioAssets/Suck 1.wav"
+dest_files=[ "res://.import/Suck 1.wav-868e91807bac453561a94c57abbfb4b6.sample" ]
 
 [params]
 

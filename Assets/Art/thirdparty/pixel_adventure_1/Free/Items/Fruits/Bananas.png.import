@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Bananas.png-2166c2971c48d109c4bc1ae0282a9569.stex"
+path="res://.import/Bananas.png-c99223f7be7ba5fb4ee20c456a4a5012.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Items/Fruits/Bananas.png"
-dest_files=[ "res://.import/Bananas.png-2166c2971c48d109c4bc1ae0282a9569.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Items/Fruits/Bananas.png"
+dest_files=[ "res://.import/Bananas.png-c99223f7be7ba5fb4ee20c456a4a5012.stex" ]
 
 [params]
 

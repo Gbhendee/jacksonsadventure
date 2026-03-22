@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat03_wallclimb_strip8.png-43245194353c3bd6e45eaa2c6fc3d8eb.stex"
+path="res://.import/cat03_wallclimb_strip8.png-170e34dc9b36cf62ee37bde6c1537828.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/catset_spritesheets/Tiger/cat03_wallclimb_strip8.png"
-dest_files=[ "res://.import/cat03_wallclimb_strip8.png-43245194353c3bd6e45eaa2c6fc3d8eb.stex" ]
+source_file="res://Assets/Art/characters/npcs/Tiger/cat03_wallclimb_strip8.png"
+dest_files=[ "res://.import/cat03_wallclimb_strip8.png-170e34dc9b36cf62ee37bde6c1537828.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Brown On (32x8).png-0047d87c35048d4930b97a570a48cbe8.stex"
+path="res://.import/Brown On (32x8).png-7a5281a88953087e5ebccf4cd4289374.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Traps/Platforms/Brown On (32x8).png"
-dest_files=[ "res://.import/Brown On (32x8).png-0047d87c35048d4930b97a570a48cbe8.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Traps/Platforms/Brown On (32x8).png"
+dest_files=[ "res://.import/Brown On (32x8).png-7a5281a88953087e5ebccf4cd4289374.stex" ]
 
 [params]
 

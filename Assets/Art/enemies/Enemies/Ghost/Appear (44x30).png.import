@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Appear (44x30).png-5b2d3783d3c8f753be163d0244efa246.stex"
+path="res://.import/Appear (44x30).png-873754242a0b57755fea6a6e708b115f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Ghost/Appear (44x30).png"
-dest_files=[ "res://.import/Appear (44x30).png-5b2d3783d3c8f753be163d0244efa246.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Ghost/Appear (44x30).png"
+dest_files=[ "res://.import/Appear (44x30).png-873754242a0b57755fea6a6e708b115f.stex" ]
 
 [params]
 

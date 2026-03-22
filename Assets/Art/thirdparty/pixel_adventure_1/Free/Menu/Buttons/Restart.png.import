@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Restart.png-4bfa2442a67b05dc5ec559258e328b24.stex"
+path="res://.import/Restart.png-583a460e39a4fc40cfbab4b9a07ca65d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Menu/Buttons/Restart.png"
-dest_files=[ "res://.import/Restart.png-4bfa2442a67b05dc5ec559258e328b24.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Menu/Buttons/Restart.png"
+dest_files=[ "res://.import/Restart.png-583a460e39a4fc40cfbab4b9a07ca65d.stex" ]
 
 [params]
 

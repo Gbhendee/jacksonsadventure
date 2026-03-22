@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Hit (84x38).png-ebc9ab23bcfa8f157f42996dcc6df813.stex"
+path="res://.import/Hit (84x38).png-894adf365dea3497bb756c8632b7d587.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Chameleon/Hit (84x38).png"
-dest_files=[ "res://.import/Hit (84x38).png-ebc9ab23bcfa8f157f42996dcc6df813.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Chameleon/Hit (84x38).png"
+dest_files=[ "res://.import/Hit (84x38).png-894adf365dea3497bb756c8632b7d587.stex" ]
 
 [params]
 

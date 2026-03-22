@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Hit (36x36).png-290d379cba28daff207d6673be19bf56.stex"
+path="res://.import/Hit (36x36).png-ce94e81b01362a67abeb06258564b041.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Duck/Hit (36x36).png"
-dest_files=[ "res://.import/Hit (36x36).png-290d379cba28daff207d6673be19bf56.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Duck/Hit (36x36).png"
+dest_files=[ "res://.import/Hit (36x36).png-ce94e81b01362a67abeb06258564b041.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Dust Particle.png-2342d1da108feb0c3b693f88c4f2ad77.stex"
+path="res://.import/Dust Particle.png-f3e930f176300a486c32b9565a9ec8b6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Other/Dust Particle.png"
-dest_files=[ "res://.import/Dust Particle.png-2342d1da108feb0c3b693f88c4f2ad77.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Other/Dust Particle.png"
+dest_files=[ "res://.import/Dust Particle.png-f3e930f176300a486c32b9565a9ec8b6.stex" ]
 
 [params]
 

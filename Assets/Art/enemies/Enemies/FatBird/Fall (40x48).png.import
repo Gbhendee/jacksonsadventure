@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Fall (40x48).png-58a6bef8272c2fe856c35b8004fefe6d.stex"
+path="res://.import/Fall (40x48).png-4c5d19e1aa25824fe6d0c10bbc7acf18.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/FatBird/Fall (40x48).png"
-dest_files=[ "res://.import/Fall (40x48).png-58a6bef8272c2fe856c35b8004fefe6d.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/FatBird/Fall (40x48).png"
+dest_files=[ "res://.import/Fall (40x48).png-4c5d19e1aa25824fe6d0c10bbc7acf18.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat04_idle_strip8.png-b1a73329e8d8b37612be00642af9a650.stex"
+path="res://.import/cat04_idle_strip8.png-7bef91c12b28b1296cee9108dc517f31.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/jax_spritesheets/cat04_idle_strip8.png"
-dest_files=[ "res://.import/cat04_idle_strip8.png-b1a73329e8d8b37612be00642af9a650.stex" ]
+source_file="res://Assets/Art/characters/jackson/cat04_idle_strip8.png"
+dest_files=[ "res://.import/cat04_idle_strip8.png-7bef91c12b28b1296cee9108dc517f31.stex" ]
 
 [params]
 

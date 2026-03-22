@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Chain.png-1dd78f780d5f6f494a863bb5235bfad5.stex"
+path="res://.import/Chain.png-72bf7ef2b3ada1f231cefbb37352e1a9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Traps/Spiked Ball/Chain.png"
-dest_files=[ "res://.import/Chain.png-1dd78f780d5f6f494a863bb5235bfad5.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Traps/Spiked Ball/Chain.png"
+dest_files=[ "res://.import/Chain.png-72bf7ef2b3ada1f231cefbb37352e1a9.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Rock2_Hit (32x28).png-dbbb12ce7449ae004ab99f675b64a912.stex"
+path="res://.import/Rock2_Hit (32x28).png-5ca1d2a38415e971ac85ad2baa2d5ea6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Rocks/Rock2_Hit (32x28).png"
-dest_files=[ "res://.import/Rock2_Hit (32x28).png-dbbb12ce7449ae004ab99f675b64a912.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Rocks/Rock2_Hit (32x28).png"
+dest_files=[ "res://.import/Rock2_Hit (32x28).png-5ca1d2a38415e971ac85ad2baa2d5ea6.stex" ]
 
 [params]
 

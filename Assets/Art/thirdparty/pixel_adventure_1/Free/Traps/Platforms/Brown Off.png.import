@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Brown Off.png-45738fb330c518c4be3b99ed91e90aa1.stex"
+path="res://.import/Brown Off.png-9a558cc0d164b571f5c0a7d8f36c56d0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Traps/Platforms/Brown Off.png"
-dest_files=[ "res://.import/Brown Off.png-45738fb330c518c4be3b99ed91e90aa1.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Traps/Platforms/Brown Off.png"
+dest_files=[ "res://.import/Brown Off.png-9a558cc0d164b571f5c0a7d8f36c56d0.stex" ]
 
 [params]
 

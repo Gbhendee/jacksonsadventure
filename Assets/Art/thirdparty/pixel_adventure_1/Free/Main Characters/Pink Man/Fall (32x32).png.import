@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Fall (32x32).png-09614d8131ad95556feb37b549e4feb8.stex"
+path="res://.import/Fall (32x32).png-0d5413198f6a19d368932faab2bc24e2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Main Characters/Pink Man/Fall (32x32).png"
-dest_files=[ "res://.import/Fall (32x32).png-09614d8131ad95556feb37b549e4feb8.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Main Characters/Pink Man/Fall (32x32).png"
+dest_files=[ "res://.import/Fall (32x32).png-0d5413198f6a19d368932faab2bc24e2.stex" ]
 
 [params]
 

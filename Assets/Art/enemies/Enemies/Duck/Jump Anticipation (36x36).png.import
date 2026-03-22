@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Jump Anticipation (36x36).png-4f97e6c08eccdf442bf3d9ae7d5399f8.stex"
+path="res://.import/Jump Anticipation (36x36).png-2b30e56db889ee98f13c3d890b59d14d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Duck/Jump Anticipation (36x36).png"
-dest_files=[ "res://.import/Jump Anticipation (36x36).png-4f97e6c08eccdf442bf3d9ae7d5399f8.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Duck/Jump Anticipation (36x36).png"
+dest_files=[ "res://.import/Jump Anticipation (36x36).png-2b30e56db889ee98f13c3d890b59d14d.stex" ]
 
 [params]
 

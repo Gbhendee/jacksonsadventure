@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Cherries.png-7ff2fe9adca436466cfe01d186112ca6.stex"
+path="res://.import/Cherries.png-34a22b798832c14f73f04524bfd70c95.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Items/Fruits/Cherries.png"
-dest_files=[ "res://.import/Cherries.png-7ff2fe9adca436466cfe01d186112ca6.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Items/Fruits/Cherries.png"
+dest_files=[ "res://.import/Cherries.png-34a22b798832c14f73f04524bfd70c95.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/jax_run_strip4.png-95d3140dc43d71a8c1947225637fa99f.stex"
+path="res://.import/jax_run_strip4.png-3e2f92f9dc52618d7836a5c9d7438e84.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/jax_spritesheets/jax_run_strip4.png"
-dest_files=[ "res://.import/jax_run_strip4.png-95d3140dc43d71a8c1947225637fa99f.stex" ]
+source_file="res://Assets/Art/characters/jackson/jax_run_strip4.png"
+dest_files=[ "res://.import/jax_run_strip4.png-3e2f92f9dc52618d7836a5c9d7438e84.stex" ]
 
 [params]
 

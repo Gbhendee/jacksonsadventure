@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat05_crouch_strip8.png-55ca74ced512b48c203066811cf02263.stex"
+path="res://.import/cat05_crouch_strip8.png-256ff9c1284f5924f8a9626470968b02.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/catset_spritesheets/blackghost/cat05_crouch_strip8.png"
-dest_files=[ "res://.import/cat05_crouch_strip8.png-55ca74ced512b48c203066811cf02263.stex" ]
+source_file="res://Assets/Art/characters/npcs/blackghost/cat05_crouch_strip8.png"
+dest_files=[ "res://.import/cat05_crouch_strip8.png-256ff9c1284f5924f8a9626470968b02.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat05_jump_strip4.png-ebca4016d72c802d7ea362bd15874810.stex"
+path="res://.import/cat05_jump_strip4.png-7c3383d197c0acc4b8f43d8839c19a23.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/catset_spritesheets/blackghost/cat05_jump_strip4.png"
-dest_files=[ "res://.import/cat05_jump_strip4.png-ebca4016d72c802d7ea362bd15874810.stex" ]
+source_file="res://Assets/Art/characters/npcs/blackghost/cat05_jump_strip4.png"
+dest_files=[ "res://.import/cat05_jump_strip4.png-7c3383d197c0acc4b8f43d8839c19a23.stex" ]
 
 [params]
 

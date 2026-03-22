@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Red Particle.png-75f2963d670ee44f954308387db554a9.stex"
+path="res://.import/Red Particle.png-ca0def79c7d8db831a11e2cc47d89499.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Skull/Red Particle.png"
-dest_files=[ "res://.import/Red Particle.png-75f2963d670ee44f954308387db554a9.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Skull/Red Particle.png"
+dest_files=[ "res://.import/Red Particle.png-ca0def79c7d8db831a11e2cc47d89499.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat04_liedown_strip24.png-e0ef011dfba461a2b5cce1cb7c27bc59.stex"
+path="res://.import/cat04_liedown_strip24.png-5bc0ec85fdc956c33e846dc3181476b0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/jax_spritesheets/cat04_liedown_strip24.png"
-dest_files=[ "res://.import/cat04_liedown_strip24.png-e0ef011dfba461a2b5cce1cb7c27bc59.stex" ]
+source_file="res://Assets/Art/characters/jackson/cat04_liedown_strip24.png"
+dest_files=[ "res://.import/cat04_liedown_strip24.png-5bc0ec85fdc956c33e846dc3181476b0.stex" ]
 
 [params]
 

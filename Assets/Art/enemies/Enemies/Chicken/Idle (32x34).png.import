@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Idle (32x34).png-ad550c9bfeeb41d5a7bfdc1c993e677b.stex"
+path="res://.import/Idle (32x34).png-5ab58a03ea0b0d9cf37d64a163a9902b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Chicken/Idle (32x34).png"
-dest_files=[ "res://.import/Idle (32x34).png-ad550c9bfeeb41d5a7bfdc1c993e677b.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Chicken/Idle (32x34).png"
+dest_files=[ "res://.import/Idle (32x34).png-5ab58a03ea0b0d9cf37d64a163a9902b.stex" ]
 
 [params]
 

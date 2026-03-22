@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Fall (32x32).png-fea45440a6cbbb97d68940e9200e400d.stex"
+path="res://.import/Fall (32x32).png-5e097387dad6b6e5175d6a6f89f3ffd9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Main Characters/Mask Dude/Fall (32x32).png"
-dest_files=[ "res://.import/Fall (32x32).png-fea45440a6cbbb97d68940e9200e400d.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Main Characters/Mask Dude/Fall (32x32).png"
+dest_files=[ "res://.import/Fall (32x32).png-5e097387dad6b6e5175d6a6f89f3ffd9.stex" ]
 
 [params]
 

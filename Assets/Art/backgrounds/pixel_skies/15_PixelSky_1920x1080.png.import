@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/15_PixelSky_1920x1080.png-7640246242281b4c46abab6a7ac23974.stex"
+path="res://.import/15_PixelSky_1920x1080.png-e4259262f3e77cbdccb5f00ea243fb3d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Backgounds/Pixel Skies 1920x1080px (Full HD)/15_PixelSky_1920x1080.png"
-dest_files=[ "res://.import/15_PixelSky_1920x1080.png-7640246242281b4c46abab6a7ac23974.stex" ]
+source_file="res://Assets/Art/backgrounds/pixel_skies/15_PixelSky_1920x1080.png"
+dest_files=[ "res://.import/15_PixelSky_1920x1080.png-e4259262f3e77cbdccb5f00ea243fb3d.stex" ]
 
 [params]
 

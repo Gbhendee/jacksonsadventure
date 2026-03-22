@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Flying (32x32).png-0922236c5aa5379fa89cbdc81eba3d5b.stex"
+path="res://.import/Flying (32x32).png-0a0c46549e3aa06c3067b247a1c0f935.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/BlueBird/Flying (32x32).png"
-dest_files=[ "res://.import/Flying (32x32).png-0922236c5aa5379fa89cbdc81eba3d5b.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/BlueBird/Flying (32x32).png"
+dest_files=[ "res://.import/Flying (32x32).png-0a0c46549e3aa06c3067b247a1c0f935.stex" ]
 
 [params]
 

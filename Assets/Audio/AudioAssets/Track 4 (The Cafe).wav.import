@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/Track 4 (The Cafe).wav-adfaaad4c413b660fa1b92cd51c5760b.sample"
+path="res://.import/Track 4 (The Cafe).wav-20b305298a6aaf4334bf6045c48139fc.sample"
 
 [deps]
 
-source_file="res://Assets/AudioAssets/Track 4 (The Cafe).wav"
-dest_files=[ "res://.import/Track 4 (The Cafe).wav-adfaaad4c413b660fa1b92cd51c5760b.sample" ]
+source_file="res://Assets/Audio/AudioAssets/Track 4 (The Cafe).wav"
+dest_files=[ "res://.import/Track 4 (The Cafe).wav-20b305298a6aaf4334bf6045c48139fc.sample" ]
 
 [params]
 

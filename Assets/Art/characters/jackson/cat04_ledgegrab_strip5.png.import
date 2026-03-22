@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat04_ledgegrab_strip5.png-524f4f4dcdb160561a427dc861ce2156.stex"
+path="res://.import/cat04_ledgegrab_strip5.png-23d9663f944670c377042c365e68313f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/jax_spritesheets/cat04_ledgegrab_strip5.png"
-dest_files=[ "res://.import/cat04_ledgegrab_strip5.png-524f4f4dcdb160561a427dc861ce2156.stex" ]
+source_file="res://Assets/Art/characters/jackson/cat04_ledgegrab_strip5.png"
+dest_files=[ "res://.import/cat04_ledgegrab_strip5.png-23d9663f944670c377042c365e68313f.stex" ]
 
 [params]
 

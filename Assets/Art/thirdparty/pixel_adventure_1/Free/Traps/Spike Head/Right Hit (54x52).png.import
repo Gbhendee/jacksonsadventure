@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Right Hit (54x52).png-303f4d7385bd1fab21fb971edebe5242.stex"
+path="res://.import/Right Hit (54x52).png-308e414b525da9b374708c14a931d31c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Traps/Spike Head/Right Hit (54x52).png"
-dest_files=[ "res://.import/Right Hit (54x52).png-303f4d7385bd1fab21fb971edebe5242.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Traps/Spike Head/Right Hit (54x52).png"
+dest_files=[ "res://.import/Right Hit (54x52).png-308e414b525da9b374708c14a931d31c.stex" ]
 
 [params]
 

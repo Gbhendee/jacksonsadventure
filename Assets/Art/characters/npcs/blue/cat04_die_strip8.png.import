@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat04_die_strip8.png-9c51d5342d9064155ed786f81a6a9885.stex"
+path="res://.import/cat04_die_strip8.png-598cf3d9d095a2c7096d712d72c17f17.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/catset_spritesheets/blue/cat04_die_strip8.png"
-dest_files=[ "res://.import/cat04_die_strip8.png-9c51d5342d9064155ed786f81a6a9885.stex" ]
+source_file="res://Assets/Art/characters/npcs/blue/cat04_die_strip8.png"
+dest_files=[ "res://.import/cat04_die_strip8.png-598cf3d9d095a2c7096d712d72c17f17.stex" ]
 
 [params]
 

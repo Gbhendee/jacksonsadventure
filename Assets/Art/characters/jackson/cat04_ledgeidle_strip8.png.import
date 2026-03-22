@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat04_ledgeidle_strip8.png-bc7dea711d1bd1b2bb6b778ae90308ba.stex"
+path="res://.import/cat04_ledgeidle_strip8.png-185037d96fb6771dafadf70bda60deeb.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/jax_spritesheets/cat04_ledgeidle_strip8.png"
-dest_files=[ "res://.import/cat04_ledgeidle_strip8.png-bc7dea711d1bd1b2bb6b778ae90308ba.stex" ]
+source_file="res://Assets/Art/characters/jackson/cat04_ledgeidle_strip8.png"
+dest_files=[ "res://.import/cat04_ledgeidle_strip8.png-185037d96fb6771dafadf70bda60deeb.stex" ]
 
 [params]
 

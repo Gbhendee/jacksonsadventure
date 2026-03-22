@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Hit (16x32).png-ff9f9d2064b24e9732713741f514285c.stex"
+path="res://.import/Hit (16x32).png-99a72958e75caa246d23b332a3d0346e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Traps/Fire/Hit (16x32).png"
-dest_files=[ "res://.import/Hit (16x32).png-ff9f9d2064b24e9732713741f514285c.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Traps/Fire/Hit (16x32).png"
+dest_files=[ "res://.import/Hit (16x32).png-99a72958e75caa246d23b332a3d0346e.stex" ]
 
 [params]
 

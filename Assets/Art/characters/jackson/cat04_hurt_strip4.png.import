@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat04_hurt_strip4.png-216b194509fe1ccc557138f4e3cd9325.stex"
+path="res://.import/cat04_hurt_strip4.png-cd3d9d2be599fae2dced2a934da32294.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/jax_spritesheets/cat04_hurt_strip4.png"
-dest_files=[ "res://.import/cat04_hurt_strip4.png-216b194509fe1ccc557138f4e3cd9325.stex" ]
+source_file="res://Assets/Art/characters/jackson/cat04_hurt_strip4.png"
+dest_files=[ "res://.import/cat04_hurt_strip4.png-cd3d9d2be599fae2dced2a934da32294.stex" ]
 
 [params]
 

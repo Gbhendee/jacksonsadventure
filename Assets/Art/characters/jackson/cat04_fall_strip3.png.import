@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat04_fall_strip3.png-965202c2ed322a239c1b922a7b33266d.stex"
+path="res://.import/cat04_fall_strip3.png-48fd05a2080f92988b8f443e5a88f699.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/jax_spritesheets/cat04_fall_strip3.png"
-dest_files=[ "res://.import/cat04_fall_strip3.png-965202c2ed322a239c1b922a7b33266d.stex" ]
+source_file="res://Assets/Art/characters/jackson/cat04_fall_strip3.png"
+dest_files=[ "res://.import/cat04_fall_strip3.png-48fd05a2080f92988b8f443e5a88f699.stex" ]
 
 [params]
 

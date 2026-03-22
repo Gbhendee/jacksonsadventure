@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Attack (84x38).png-7cee512bc45af8ec42564fb13fae7c00.stex"
+path="res://.import/Attack (84x38).png-df30580eb869ac0069d0eb2fb3544638.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Chameleon/Attack (84x38).png"
-dest_files=[ "res://.import/Attack (84x38).png-7cee512bc45af8ec42564fb13fae7c00.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Chameleon/Attack (84x38).png"
+dest_files=[ "res://.import/Attack (84x38).png-df30580eb869ac0069d0eb2fb3544638.stex" ]
 
 [params]
 

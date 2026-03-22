@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Off.png-0bc04830af424d9e5dea4762300d4038.stex"
+path="res://.import/Off.png-ee69304c16a2842fcf163893a82527b6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Traps/Fan/Off.png"
-dest_files=[ "res://.import/Off.png-0bc04830af424d9e5dea4762300d4038.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Traps/Fan/Off.png"
+dest_files=[ "res://.import/Off.png-ee69304c16a2842fcf163893a82527b6.stex" ]
 
 [params]
 

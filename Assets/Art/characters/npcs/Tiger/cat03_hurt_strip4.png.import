@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat03_hurt_strip4.png-f1bfa48abd30c24bd1fac8e36f8346d8.stex"
+path="res://.import/cat03_hurt_strip4.png-0326d1e3a009d86e60b8956f81a1afa6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/catset_spritesheets/Tiger/cat03_hurt_strip4.png"
-dest_files=[ "res://.import/cat03_hurt_strip4.png-f1bfa48abd30c24bd1fac8e36f8346d8.stex" ]
+source_file="res://Assets/Art/characters/npcs/Tiger/cat03_hurt_strip4.png"
+dest_files=[ "res://.import/cat03_hurt_strip4.png-0326d1e3a009d86e60b8956f81a1afa6.stex" ]
 
 [params]
 

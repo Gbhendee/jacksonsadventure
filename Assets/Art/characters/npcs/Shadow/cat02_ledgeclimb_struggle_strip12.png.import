@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat02_ledgeclimb_struggle_strip12.png-17abeaa280365396039cef73152da26c.stex"
+path="res://.import/cat02_ledgeclimb_struggle_strip12.png-d83bd71194f44a7b8da1f428943efdc9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/catset_spritesheets/Shadow/cat02_ledgeclimb_struggle_strip12.png"
-dest_files=[ "res://.import/cat02_ledgeclimb_struggle_strip12.png-17abeaa280365396039cef73152da26c.stex" ]
+source_file="res://Assets/Art/characters/npcs/Shadow/cat02_ledgeclimb_struggle_strip12.png"
+dest_files=[ "res://.import/cat02_ledgeclimb_struggle_strip12.png-d83bd71194f44a7b8da1f428943efdc9.stex" ]
 
 [params]
 

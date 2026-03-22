@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Idle (32x32).png-4caccc25927731df91c7d1329f6a96b0.stex"
+path="res://.import/Idle (32x32).png-9baedd45c8bc2d18df1c56e6653f4e99.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Main Characters/Mask Dude/Idle (32x32).png"
-dest_files=[ "res://.import/Idle (32x32).png-4caccc25927731df91c7d1329f6a96b0.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Main Characters/Mask Dude/Idle (32x32).png"
+dest_files=[ "res://.import/Idle (32x32).png-9baedd45c8bc2d18df1c56e6653f4e99.stex" ]
 
 [params]
 

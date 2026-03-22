@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Rock2_Idle (32x28).png-099e31bbb6363e5e9a92bc2c329129af.stex"
+path="res://.import/Rock2_Idle (32x28).png-17dfd0da1abce0f550ebf6d753463bce.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Rocks/Rock2_Idle (32x28).png"
-dest_files=[ "res://.import/Rock2_Idle (32x28).png-099e31bbb6363e5e9a92bc2c329129af.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Rocks/Rock2_Idle (32x28).png"
+dest_files=[ "res://.import/Rock2_Idle (32x28).png-17dfd0da1abce0f550ebf6d753463bce.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Run (32x32).png-6bd14f56a11e8eb1eb63aa51e69c0b0a.stex"
+path="res://.import/Run (32x32).png-ca4871daa8f3970acf1d1b5e509ecf94.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Main Characters/Pink Man/Run (32x32).png"
-dest_files=[ "res://.import/Run (32x32).png-6bd14f56a11e8eb1eb63aa51e69c0b0a.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Main Characters/Pink Man/Run (32x32).png"
+dest_files=[ "res://.import/Run (32x32).png-ca4871daa8f3970acf1d1b5e509ecf94.stex" ]
 
 [params]
 

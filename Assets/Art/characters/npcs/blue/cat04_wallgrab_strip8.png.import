@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat04_wallgrab_strip8.png-81714c8f971df70adf12813952b2c723.stex"
+path="res://.import/cat04_wallgrab_strip8.png-cf5ba7e667328c6b0d915473b155aa8a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/catset_spritesheets/blue/cat04_wallgrab_strip8.png"
-dest_files=[ "res://.import/cat04_wallgrab_strip8.png-81714c8f971df70adf12813952b2c723.stex" ]
+source_file="res://Assets/Art/characters/npcs/blue/cat04_wallgrab_strip8.png"
+dest_files=[ "res://.import/cat04_wallgrab_strip8.png-cf5ba7e667328c6b0d915473b155aa8a.stex" ]
 
 [params]
 

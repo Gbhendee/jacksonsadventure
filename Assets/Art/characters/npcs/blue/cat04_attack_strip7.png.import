@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat04_attack_strip7.png-1d9b72ec42a6c25c0ee6defcd4eafbc0.stex"
+path="res://.import/cat04_attack_strip7.png-ab0286c6d084baa49cf3867757faabd3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/catset_spritesheets/blue/cat04_attack_strip7.png"
-dest_files=[ "res://.import/cat04_attack_strip7.png-1d9b72ec42a6c25c0ee6defcd4eafbc0.stex" ]
+source_file="res://Assets/Art/characters/npcs/blue/cat04_attack_strip7.png"
+dest_files=[ "res://.import/cat04_attack_strip7.png-ab0286c6d084baa49cf3867757faabd3.stex" ]
 
 [params]
 

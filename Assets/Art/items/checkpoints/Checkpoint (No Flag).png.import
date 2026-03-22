@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Checkpoint (No Flag).png-fad329980fbbc25692a541f23fa59b62.stex"
+path="res://.import/Checkpoint (No Flag).png-7b7c8e5c24a809338b71952d10b758cc.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Items/Checkpoints/Checkpoint/Checkpoint (No Flag).png"
-dest_files=[ "res://.import/Checkpoint (No Flag).png-fad329980fbbc25692a541f23fa59b62.stex" ]
+source_file="res://Assets/Art/items/checkpoints/Checkpoint (No Flag).png"
+dest_files=[ "res://.import/Checkpoint (No Flag).png-7b7c8e5c24a809338b71952d10b758cc.stex" ]
 
 [params]
 

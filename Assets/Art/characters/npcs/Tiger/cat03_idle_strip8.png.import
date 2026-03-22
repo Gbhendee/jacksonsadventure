@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat03_idle_strip8.png-3b767bbba10b3f3b53c00251cb79a0c7.stex"
+path="res://.import/cat03_idle_strip8.png-9b7454db3ca8bcac3393066916934cae.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/catset_spritesheets/Tiger/cat03_idle_strip8.png"
-dest_files=[ "res://.import/cat03_idle_strip8.png-3b767bbba10b3f3b53c00251cb79a0c7.stex" ]
+source_file="res://Assets/Art/characters/npcs/Tiger/cat03_idle_strip8.png"
+dest_files=[ "res://.import/cat03_idle_strip8.png-9b7454db3ca8bcac3393066916934cae.stex" ]
 
 [params]
 

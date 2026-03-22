@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/Fruit collect 1.wav-37d4b5033e768053cc4b1ffabc1fb325.sample"
+path="res://.import/Fruit collect 1.wav-46299279cb28a022e8c3003ceca9fd8c.sample"
 
 [deps]
 
-source_file="res://Assets/AudioAssets/Fruit collect 1.wav"
-dest_files=[ "res://.import/Fruit collect 1.wav-37d4b5033e768053cc4b1ffabc1fb325.sample" ]
+source_file="res://Assets/Audio/AudioAssets/Fruit collect 1.wav"
+dest_files=[ "res://.import/Fruit collect 1.wav-46299279cb28a022e8c3003ceca9fd8c.sample" ]
 
 [params]
 

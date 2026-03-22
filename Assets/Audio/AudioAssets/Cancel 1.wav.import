@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/Cancel 1.wav-f291bb7c5a7f206992cb69d537989850.sample"
+path="res://.import/Cancel 1.wav-8c31813bf6f4ac0452ca2f575c51f704.sample"
 
 [deps]
 
-source_file="res://Assets/AudioAssets/Cancel 1.wav"
-dest_files=[ "res://.import/Cancel 1.wav-f291bb7c5a7f206992cb69d537989850.sample" ]
+source_file="res://Assets/Audio/AudioAssets/Cancel 1.wav"
+dest_files=[ "res://.import/Cancel 1.wav-8c31813bf6f4ac0452ca2f575c51f704.sample" ]
 
 [params]
 

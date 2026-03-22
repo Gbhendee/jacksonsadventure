@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Idle 1 (44x26).png-36e83cf8033cd1619920f838300603a0.stex"
+path="res://.import/Idle 1 (44x26).png-7d5c49feed74a871e8f67a9170e03368.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/Turtle/Idle 1 (44x26).png"
-dest_files=[ "res://.import/Idle 1 (44x26).png-36e83cf8033cd1619920f838300603a0.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/Turtle/Idle 1 (44x26).png"
+dest_files=[ "res://.import/Idle 1 (44x26).png-7d5c49feed74a871e8f67a9170e03368.stex" ]
 
 [params]
 

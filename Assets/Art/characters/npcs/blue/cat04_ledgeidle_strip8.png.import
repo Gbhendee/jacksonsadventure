@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat04_ledgeidle_strip8.png-42037620bebe5f8f878067735663f08e.stex"
+path="res://.import/cat04_ledgeidle_strip8.png-3a6cebeae62223437d964daf0eadce5a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/catset_spritesheets/blue/cat04_ledgeidle_strip8.png"
-dest_files=[ "res://.import/cat04_ledgeidle_strip8.png-42037620bebe5f8f878067735663f08e.stex" ]
+source_file="res://Assets/Art/characters/npcs/blue/cat04_ledgeidle_strip8.png"
+dest_files=[ "res://.import/cat04_ledgeidle_strip8.png-3a6cebeae62223437d964daf0eadce5a.stex" ]
 
 [params]
 

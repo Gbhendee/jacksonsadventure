@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Top Hit (54x52).png-72945e38b83df974be537143dfc90926.stex"
+path="res://.import/Top Hit (54x52).png-b2b7467bef21b60da6d9933e49ba8546.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Traps/Spike Head/Top Hit (54x52).png"
-dest_files=[ "res://.import/Top Hit (54x52).png-72945e38b83df974be537143dfc90926.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Traps/Spike Head/Top Hit (54x52).png"
+dest_files=[ "res://.import/Top Hit (54x52).png-b2b7467bef21b60da6d9933e49ba8546.stex" ]
 
 [params]
 

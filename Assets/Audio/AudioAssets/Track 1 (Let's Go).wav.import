@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/Track 1 (Let's Go).wav-bcb726e80ffa108a3cceac3d7b0406ce.sample"
+path="res://.import/Track 1 (Let's Go).wav-0f3798b92fa2420c230612830b89e7a5.sample"
 
 [deps]
 
-source_file="res://Assets/AudioAssets/Track 1 (Let's Go).wav"
-dest_files=[ "res://.import/Track 1 (Let's Go).wav-bcb726e80ffa108a3cceac3d7b0406ce.sample" ]
+source_file="res://Assets/Audio/AudioAssets/Track 1 (Let's Go).wav"
+dest_files=[ "res://.import/Track 1 (Let's Go).wav-0f3798b92fa2420c230612830b89e7a5.sample" ]
 
 [params]
 

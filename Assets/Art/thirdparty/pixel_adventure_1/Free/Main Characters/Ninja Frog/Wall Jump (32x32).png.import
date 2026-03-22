@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Wall Jump (32x32).png-5c89422e9532a7f003db67e9efa19d8c.stex"
+path="res://.import/Wall Jump (32x32).png-3ac2ffe8867e2c240e6bb77e0ec34213.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Main Characters/Ninja Frog/Wall Jump (32x32).png"
-dest_files=[ "res://.import/Wall Jump (32x32).png-5c89422e9532a7f003db67e9efa19d8c.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Main Characters/Ninja Frog/Wall Jump (32x32).png"
+dest_files=[ "res://.import/Wall Jump (32x32).png-3ac2ffe8867e2c240e6bb77e0ec34213.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/Boss hit 1.wav-40b69ddffe7c50a48673bf93215c11c5.sample"
+path="res://.import/Boss hit 1.wav-1a3904b92e720055bbf66ed537944b94.sample"
 
 [deps]
 
-source_file="res://Assets/AudioAssets/Boss hit 1.wav"
-dest_files=[ "res://.import/Boss hit 1.wav-40b69ddffe7c50a48673bf93215c11c5.sample" ]
+source_file="res://Assets/Audio/AudioAssets/Boss hit 1.wav"
+dest_files=[ "res://.import/Boss hit 1.wav-1a3904b92e720055bbf66ed537944b94.sample" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat03_idle_blink_strip8.png-0d3acaf2e45143587591719ac08f1535.stex"
+path="res://.import/cat03_idle_blink_strip8.png-af70d3ad468611cfb34b4dbf2486278b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/catset_spritesheets/Tiger/cat03_idle_blink_strip8.png"
-dest_files=[ "res://.import/cat03_idle_blink_strip8.png-0d3acaf2e45143587591719ac08f1535.stex" ]
+source_file="res://Assets/Art/characters/npcs/Tiger/cat03_idle_blink_strip8.png"
+dest_files=[ "res://.import/cat03_idle_blink_strip8.png-af70d3ad468611cfb34b4dbf2486278b.stex" ]
 
 [params]
 

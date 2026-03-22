@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat01_dash_strip9.png-f0d82370dc5ba595b9a0267da15bdfe2.stex"
+path="res://.import/cat01_dash_strip9.png-7018c7e4ae9e8ca91dd18af832611b02.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/catset_spritesheets/snickers/cat01_dash_strip9.png"
-dest_files=[ "res://.import/cat01_dash_strip9.png-f0d82370dc5ba595b9a0267da15bdfe2.stex" ]
+source_file="res://Assets/Art/characters/npcs/snickers/cat01_dash_strip9.png"
+dest_files=[ "res://.import/cat01_dash_strip9.png-7018c7e4ae9e8ca91dd18af832611b02.stex" ]
 
 [params]
 

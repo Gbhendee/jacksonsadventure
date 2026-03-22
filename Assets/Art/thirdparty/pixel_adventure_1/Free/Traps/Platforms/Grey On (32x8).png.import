@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Grey On (32x8).png-0d5db171f5cba174143cac1093155e23.stex"
+path="res://.import/Grey On (32x8).png-27b88dfb79119e6264f768e9fbd3c404.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Traps/Platforms/Grey On (32x8).png"
-dest_files=[ "res://.import/Grey On (32x8).png-0d5db171f5cba174143cac1093155e23.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Traps/Platforms/Grey On (32x8).png"
+dest_files=[ "res://.import/Grey On (32x8).png-27b88dfb79119e6264f768e9fbd3c404.stex" ]
 
 [params]
 

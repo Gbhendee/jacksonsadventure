@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat02_idle_strip8.png-73056d88da7ca8c8ce9270ccda04be96.stex"
+path="res://.import/cat02_idle_strip8.png-c338a5cdffc69679b75e0b52008b4e13.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/catset_spritesheets/Shadow/cat02_idle_strip8.png"
-dest_files=[ "res://.import/cat02_idle_strip8.png-73056d88da7ca8c8ce9270ccda04be96.stex" ]
+source_file="res://Assets/Art/characters/npcs/Shadow/cat02_idle_strip8.png"
+dest_files=[ "res://.import/cat02_idle_strip8.png-c338a5cdffc69679b75e0b52008b4e13.stex" ]
 
 [params]
 

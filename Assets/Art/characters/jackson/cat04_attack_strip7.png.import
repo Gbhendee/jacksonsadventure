@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat04_attack_strip7.png-a77a90c091efd29bbf0a93aa6a483c42.stex"
+path="res://.import/cat04_attack_strip7.png-5a9bd9dfd4a0b0985110140f12cbf426.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/jax_spritesheets/cat04_attack_strip7.png"
-dest_files=[ "res://.import/cat04_attack_strip7.png-a77a90c091efd29bbf0a93aa6a483c42.stex" ]
+source_file="res://Assets/Art/characters/jackson/cat04_attack_strip7.png"
+dest_files=[ "res://.import/cat04_attack_strip7.png-5a9bd9dfd4a0b0985110140f12cbf426.stex" ]
 
 [params]
 

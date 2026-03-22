@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/Track 2 (Party Tonight).wav-2c207fde79cbc079941825bd9121a984.sample"
+path="res://.import/Track 2 (Party Tonight).wav-cf20abe0a1ae889c6a2c979803f92453.sample"
 
 [deps]
 
-source_file="res://Assets/AudioAssets/Track 2 (Party Tonight).wav"
-dest_files=[ "res://.import/Track 2 (Party Tonight).wav-2c207fde79cbc079941825bd9121a984.sample" ]
+source_file="res://Assets/Audio/AudioAssets/Track 2 (Party Tonight).wav"
+dest_files=[ "res://.import/Track 2 (Party Tonight).wav-cf20abe0a1ae889c6a2c979803f92453.sample" ]
 
 [params]
 

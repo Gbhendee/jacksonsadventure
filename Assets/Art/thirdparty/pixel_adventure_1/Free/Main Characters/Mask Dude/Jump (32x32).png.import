@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Jump (32x32).png-750e8378ccb3ad84b96d3aabee6b58e1.stex"
+path="res://.import/Jump (32x32).png-c354fd0723b71134edcf6adbff3f4a57.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Main Characters/Mask Dude/Jump (32x32).png"
-dest_files=[ "res://.import/Jump (32x32).png-750e8378ccb3ad84b96d3aabee6b58e1.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Main Characters/Mask Dude/Jump (32x32).png"
+dest_files=[ "res://.import/Jump (32x32).png-c354fd0723b71134edcf6adbff3f4a57.stex" ]
 
 [params]
 

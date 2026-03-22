@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat04_walk_strip8.png-1faf4226d071be3fbe246e130cb3cbbd.stex"
+path="res://.import/cat04_walk_strip8.png-0ab511e66c887414ac02965929e11c0f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/jax_spritesheets/cat04_walk_strip8.png"
-dest_files=[ "res://.import/cat04_walk_strip8.png-1faf4226d071be3fbe246e130cb3cbbd.stex" ]
+source_file="res://Assets/Art/characters/jackson/cat04_walk_strip8.png"
+dest_files=[ "res://.import/cat04_walk_strip8.png-0ab511e66c887414ac02965929e11c0f.stex" ]
 
 [params]
 

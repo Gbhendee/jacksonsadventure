@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Apple.png-c52e66098a4c1baa8a1c4a881b69143d.stex"
+path="res://.import/Apple.png-32aadbd7efdf11691ed46ecceb9400fe.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Items/Fruits/Apple.png"
-dest_files=[ "res://.import/Apple.png-c52e66098a4c1baa8a1c4a881b69143d.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Items/Fruits/Apple.png"
+dest_files=[ "res://.import/Apple.png-32aadbd7efdf11691ed46ecceb9400fe.stex" ]
 
 [params]
 

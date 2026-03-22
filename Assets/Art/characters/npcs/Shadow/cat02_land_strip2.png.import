@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat02_land_strip2.png-c1cfb3c5bc855afc49b5ed55d1c20475.stex"
+path="res://.import/cat02_land_strip2.png-749c9bdfebf3aea4f6714b828b17c911.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/catset_spritesheets/Shadow/cat02_land_strip2.png"
-dest_files=[ "res://.import/cat02_land_strip2.png-c1cfb3c5bc855afc49b5ed55d1c20475.stex" ]
+source_file="res://Assets/Art/characters/npcs/Shadow/cat02_land_strip2.png"
+dest_files=[ "res://.import/cat02_land_strip2.png-749c9bdfebf3aea4f6714b828b17c911.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Part 1 (22x22).png-673672186250e19497724c00cf22bd54.stex"
+path="res://.import/Part 1 (22x22).png-912325c8ec86ea4a072ff5af22bfa274.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Traps/Blocks/Part 1 (22x22).png"
-dest_files=[ "res://.import/Part 1 (22x22).png-673672186250e19497724c00cf22bd54.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Traps/Blocks/Part 1 (22x22).png"
+dest_files=[ "res://.import/Part 1 (22x22).png-912325c8ec86ea4a072ff5af22bfa274.stex" ]
 
 [params]
 

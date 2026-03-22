@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Hit (40x48).png-6b10986372f29ae9dcc4f75ca2cf0550.stex"
+path="res://.import/Hit (40x48).png-eb888f37ffc04e57ed5b834eb72348ee.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Enemies/FatBird/Hit (40x48).png"
-dest_files=[ "res://.import/Hit (40x48).png-6b10986372f29ae9dcc4f75ca2cf0550.stex" ]
+source_file="res://Assets/Art/enemies/Enemies/FatBird/Hit (40x48).png"
+dest_files=[ "res://.import/Hit (40x48).png-eb888f37ffc04e57ed5b834eb72348ee.stex" ]
 
 [params]
 

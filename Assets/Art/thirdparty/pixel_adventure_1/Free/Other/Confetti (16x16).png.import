@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Confetti (16x16).png-5c35e9901f2d07ebc70640a1eee80e7c.stex"
+path="res://.import/Confetti (16x16).png-3643a8cb532b85b48589ba2e8494e2dc.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Other/Confetti (16x16).png"
-dest_files=[ "res://.import/Confetti (16x16).png-5c35e9901f2d07ebc70640a1eee80e7c.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Other/Confetti (16x16).png"
+dest_files=[ "res://.import/Confetti (16x16).png-3643a8cb532b85b48589ba2e8494e2dc.stex" ]
 
 [params]
 

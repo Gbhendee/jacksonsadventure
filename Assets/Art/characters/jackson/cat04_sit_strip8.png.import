@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat04_sit_strip8.png-1e18486e947cefd6c0aedfd6ecfbbe74.stex"
+path="res://.import/cat04_sit_strip8.png-9602df769aa8392b90d081bef21c6015.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/jax_spritesheets/cat04_sit_strip8.png"
-dest_files=[ "res://.import/cat04_sit_strip8.png-1e18486e947cefd6c0aedfd6ecfbbe74.stex" ]
+source_file="res://Assets/Art/characters/jackson/cat04_sit_strip8.png"
+dest_files=[ "res://.import/cat04_sit_strip8.png-9602df769aa8392b90d081bef21c6015.stex" ]
 
 [params]
 

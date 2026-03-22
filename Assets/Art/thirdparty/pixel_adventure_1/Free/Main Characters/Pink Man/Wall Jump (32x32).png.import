@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Wall Jump (32x32).png-111e028d21af3172239bcde37a7e5a41.stex"
+path="res://.import/Wall Jump (32x32).png-ee6fb3a6fd2a474513e1991c53460715.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Main Characters/Pink Man/Wall Jump (32x32).png"
-dest_files=[ "res://.import/Wall Jump (32x32).png-111e028d21af3172239bcde37a7e5a41.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Main Characters/Pink Man/Wall Jump (32x32).png"
+dest_files=[ "res://.import/Wall Jump (32x32).png-ee6fb3a6fd2a474513e1991c53460715.stex" ]
 
 [params]
 

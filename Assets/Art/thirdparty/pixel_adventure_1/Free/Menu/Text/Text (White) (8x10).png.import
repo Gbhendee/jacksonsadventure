@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Text (White) (8x10).png-4e16ae17193e1ea116df3c47c73b1709.stex"
+path="res://.import/Text (White) (8x10).png-c30d1bd64b5d6b5bb7803cc612970b07.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Menu/Text/Text (White) (8x10).png"
-dest_files=[ "res://.import/Text (White) (8x10).png-4e16ae17193e1ea116df3c47c73b1709.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Menu/Text/Text (White) (8x10).png"
+dest_files=[ "res://.import/Text (White) (8x10).png-c30d1bd64b5d6b5bb7803cc612970b07.stex" ]
 
 [params]
 

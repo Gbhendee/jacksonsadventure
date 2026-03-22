@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Collected.png-74a5a393090f6bfb79a0190e5abd6172.stex"
+path="res://.import/Collected.png-33ed00422c50d84e7980d47b69d7f867.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/Free/Items/Fruits/Collected.png"
-dest_files=[ "res://.import/Collected.png-74a5a393090f6bfb79a0190e5abd6172.stex" ]
+source_file="res://Assets/Art/thirdparty/pixel_adventure_1/Free/Items/Fruits/Collected.png"
+dest_files=[ "res://.import/Collected.png-33ed00422c50d84e7980d47b69d7f867.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cat05_dash_strip9.png-d554e8cc9ad34a305d823089d36312a4.stex"
+path="res://.import/cat05_dash_strip9.png-1f9c581c8c29da5812eb2711aef5cf20.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ArtAssets/Pixel Adventure 1/catset_spritesheets/blackghost/cat05_dash_strip9.png"
-dest_files=[ "res://.import/cat05_dash_strip9.png-d554e8cc9ad34a305d823089d36312a4.stex" ]
+source_file="res://Assets/Art/characters/npcs/blackghost/cat05_dash_strip9.png"
+dest_files=[ "res://.import/cat05_dash_strip9.png-1f9c581c8c29da5812eb2711aef5cf20.stex" ]
 
 [params]
 
