@@ -104,21 +104,19 @@ func _physics_process(delta):
 		landing = true
 		$AnimatedSprite.play("land")
 
-	# While landing animation plays, skip normal animation selection
-	if landing:
-		if $AnimatedSprite.animation == "land" and not $AnimatedSprite.is_playing():
-			landing = false
-		else:
-			was_airborne = false
-			return
+	# Clear landing once the land animation finishes or is interrupted
+	if landing and (not $AnimatedSprite.is_playing() or $AnimatedSprite.animation != "land"):
+		landing = false
 
 	# Wall climb and ledge grab stubs
 	_handle_wall_climb(move_left, move_right)
 	_handle_ledge_grab()
 
-	# Animation selection
+	# Animation selection — always runs every frame, no early returns
 	if dashing:
 		$AnimatedSprite.play("dash")
+	elif landing:
+		pass  # land animation is playing; don't interrupt it
 	elif ledge_grabbing:
 		$AnimatedSprite.play("ledge_grab")
 	elif wall_climbing:
@@ -136,7 +134,11 @@ func _physics_process(delta):
 	else:
 		$AnimatedSprite.play("idle")
 
-	was_airborne = not is_on_floor()
+	# Keep was_airborne false while landing to prevent re-triggering the animation
+	if landing:
+		was_airborne = false
+	else:
+		was_airborne = not is_on_floor()
 
 
 func _handle_wall_climb(move_left, move_right):
