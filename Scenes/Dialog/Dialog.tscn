@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=2]
 
 [ext_resource path="res://Scenes/Dialog/Dialog.gd" type="Script" id=1]
-[ext_resource path="res://Assets/ArtAssets/Dialog9Rects/dialogue_backgroung.png" type="Texture" id=2]
+[ext_resource path="res://Assets/Art/ui/dialogue_backgroung.png" type="Texture" id=2]
 
 [node name="Dialog" type="Control"]
 margin_right = 40.0
@@ -10,7 +10,7 @@ script = ExtResource( 1 )
 __meta__ = {
 "_edit_group_": true
 }
-dialogPath = "res://dialog.json"
+dialogPath = "res://Data/dialog.json"
 
 [node name="NinePatchRect" type="NinePatchRect" parent="."]
 modulate = Color( 0.380392, 0.27451, 0.27451, 1 )

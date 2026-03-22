@@ -1,10 +1,10 @@
 [gd_resource type="SpriteFrames" load_steps=62 format=2]
 
-[ext_resource path="res://Assets/ArtAssets/jax_spritesheets/jax_crawl_strip8.png" type="Texture" id=1]
-[ext_resource path="res://Assets/ArtAssets/jax_spritesheets/jax_fall_strip3.png" type="Texture" id=2]
-[ext_resource path="res://Assets/ArtAssets/jax_spritesheets/Jax_idle_blink_strip8.png" type="Texture" id=3]
-[ext_resource path="res://Assets/ArtAssets/jax_spritesheets/jax_jump_strip4.png" type="Texture" id=4]
-[ext_resource path="res://Assets/ArtAssets/jax_spritesheets/jax_run_strip4.png" type="Texture" id=5]
+[ext_resource path="res://Assets/Art/characters/jackson/jax_crawl_strip8.png" type="Texture" id=1]
+[ext_resource path="res://Assets/Art/characters/jackson/jax_fall_strip3.png" type="Texture" id=2]
+[ext_resource path="res://Assets/Art/characters/jackson/Jax_idle_blink_strip8.png" type="Texture" id=3]
+[ext_resource path="res://Assets/Art/characters/jackson/jax_jump_strip4.png" type="Texture" id=4]
+[ext_resource path="res://Assets/Art/characters/jackson/jax_run_strip4.png" type="Texture" id=5]
 
 [sub_resource type="AtlasTexture" id=48]
 atlas = ExtResource( 1 )
