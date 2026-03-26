@@ -26,9 +26,10 @@ patch_margin_bottom = 7
 [node name="TypeTyper" type="Timer" parent="."]
 
 [node name="Content" type="RichTextLabel" parent="."]
-margin_top = 24.0
-margin_right = 224.0
-margin_bottom = 72.0
+margin_left = 6.0
+margin_top = 28.0
+margin_right = 218.0
+margin_bottom = 64.0
 bbcode_enabled = true
 
 [node name="PauseTimer" type="Timer" parent="."]
