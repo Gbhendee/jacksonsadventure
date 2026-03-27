@@ -5,7 +5,7 @@ onready var type_timer := get_node("TypeTyper") as Timer
 onready var pause_timer := get_node("PauseTimer") as Timer
 
 export var dialogPath = ""
-export(float) var textSpeed = 0.05
+export(float) var textSpeed = 0.035
 
 var dialog
 var phraseNum = 0
