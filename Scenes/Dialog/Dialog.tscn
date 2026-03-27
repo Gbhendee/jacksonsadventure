@@ -14,8 +14,8 @@ dialogPath = "res://Data/dialog.json"
 
 [node name="NinePatchRect" type="NinePatchRect" parent="."]
 modulate = Color( 0.380392, 0.27451, 0.27451, 1 )
-margin_right = 224.0
-margin_bottom = 72.0
+margin_right = 244.0
+margin_bottom = 92.0
 texture = ExtResource( 2 )
 region_rect = Rect2( 0, 0, 12, 12 )
 patch_margin_left = 5
@@ -26,10 +26,10 @@ patch_margin_bottom = 7
 [node name="TypeTyper" type="Timer" parent="."]
 
 [node name="Content" type="RichTextLabel" parent="."]
-margin_left = 6.0
-margin_top = 28.0
-margin_right = 218.0
-margin_bottom = 64.0
+margin_left = 0.0
+margin_top = 24.0
+margin_right = 244.0
+margin_bottom = 92.0
 bbcode_enabled = true
 
 [node name="PauseTimer" type="Timer" parent="."]
