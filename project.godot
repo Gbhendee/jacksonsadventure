@@ -18,15 +18,15 @@ _global_script_class_icons={
 "Dialogue": ""
 }
 
-[autoload]
-
-GameState="*res://Scripts/GameState.gd"
-
 [application]
 
 config/name="JacksonsAdventure"
 run/main_scene="res://Scenes/Level1/Level.tscn"
 config/icon="res://icon.png"
+
+[autoload]
+
+GameState="*res://Scripts/GameState.gd"
 
 [display]
 
