@@ -36,6 +36,11 @@ var ledge_grabbing := false
 func _ready():
 	add_to_group("player")
 	$AnimatedSprite.connect("animation_finished", self, "_on_AnimatedSprite_animation_finished")
+	jump_unlocked = GameState.jump_unlocked
+	crouch_unlocked = GameState.crouch_unlocked
+	dash_unlocked = GameState.dash_unlocked
+	wall_climb_unlocked = GameState.wall_climb_unlocked
+	ledge_grab_unlocked = GameState.ledge_grab_unlocked
 
 
 func _on_AnimatedSprite_animation_finished():
@@ -51,18 +56,23 @@ func unfreeze():
 
 func unlock_jump():
 	jump_unlocked = true
+	GameState.jump_unlocked = true
 
 func unlock_crouch():
 	crouch_unlocked = true
+	GameState.crouch_unlocked = true
 
 func unlock_dash():
 	dash_unlocked = true
+	GameState.dash_unlocked = true
 
 func unlock_ledge_grab():
 	ledge_grab_unlocked = true
+	GameState.ledge_grab_unlocked = true
 
 func unlock_wall_climb():
 	wall_climb_unlocked = true
+	GameState.wall_climb_unlocked = true
 
 func _physics_process(delta):
 	if frozen:
