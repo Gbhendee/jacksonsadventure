@@ -87,10 +87,28 @@ Jackson's Adventure is a metaphor for Jackson's journey after death — finding 
 - Each cat teaches Jackson a new ability, restoring him to himself one skill at a time
 - By the summit, Jackson is fully himself, and the destination feels unmistakably like arrival
 
+### The Identity Mystery (core tension)
+The other cats don't recognize Jackson as a cat. They're not hostile — they're genuinely, curiously uncertain what he is. This is intentional and should be confusing to the player at first. The mystery of what Jackson is, and why the cats can't place him, is the central question of the game. The answer is earned, not explained.
+
 ### Mechanics That Serve the Story
 - **Jump locked until Snickers teaches it** = Jackson learning to rise
 - **Crouch locked until Snickers2 teaches it** = learning to navigate tight places
 - This pattern must continue for any new abilities added — each unlock is a moment of restoration, not just a tutorial gate
+- **Ability unlocks reframed**: Each skill Jackson learns isn't just a tutorial mechanic — it's him demonstrating cat-ness to a skeptical guide. The NPCs aren't teaching him; they're watching to see if he already knows. Unlock dialog should reflect this: *"I'm not saying you're a cat. I'm saying you move like you might have been one, once."*
+- **Ascension condition**: Jackson can only reach the summit when he's been fully recognized — vouched for by enough cats along the way. The memory fragments he collects are evidence of his cat-hood. A cat who remembers the warm spot on the couch, the toy, the bookshelf — that's a cat.
+
+### Memory Fragments (gameplay system)
+Scatter 3–5 collectible memory moments per level. Touching one triggers a brief screen flash and a single line of text — a sensory memory (e.g. *"The warm spot on the couch."* / *"The sound of a can opening."*). No UI, no inventory. Just moments. Tracked as a count internally.
+
+Double purpose:
+- Collectibles for completionists
+- Narrative evidence of Jackson's identity — accumulated proof that he was real, and a cat
+
+### The Cat Constellation
+Each NPC guide Jackson meets leaves a faint light trail in the parallax sky background, visible in subsequent levels. By the cloud levels, the sky is full of cats who walked with him.
+
+### Snickers' Arc
+Snickers is the first to give Jackson the benefit of the doubt — and the last cat at the summit. His final line, after everything: **"Passable."** That's the ending.
 
 ### Tone
 - Not overtly sad or sentimental — gentle, warm, quietly meaningful
@@ -104,11 +122,20 @@ Jackson's Adventure is a metaphor for Jackson's journey after death — finding 
 | Mid | More open, warmer light; cats he meets feel familiar and unhurried |
 | Summit | Warm, sun-drenched, still — "a forever nap in the sun" quality |
 
+### Level Zone Progression (planned, 12 levels total)
+| Zone | Levels | Setting | Mood |
+|------|--------|---------|------|
+| 1 | 1–3 | Cave | Disorientation, early journey |
+| 2 | 4–6 | Woodsy low-mountain | World coming back to life |
+| 3 | 7–9 | Rocky cliffs | Exposed, harder, more spiritual |
+| 4 | 10–12 | Clouds | Transcendence, final ascent |
+
 ### Writing New NPC Dialog
 - NPCs are cats who've been here longer; they're calm, not somber
 - Dry wit is appropriate — Snickers' existing voice is the reference
 - Avoid heavy-handed metaphor in dialog; let the mechanics carry the meaning
 - Dialog should feel like a brief, warm encounter, not an exposition dump
+- Unlock moments should feel like recognition, not instruction — the NPC is watching, not teaching
 
 ---
 
