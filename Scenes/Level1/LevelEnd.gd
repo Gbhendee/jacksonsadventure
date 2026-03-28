@@ -24,4 +24,7 @@ func _fade_and_transition():
 	tween.start()
 	yield(tween, "tween_all_completed")
 
+	call_deferred("_do_change")
+
+func _do_change():
 	get_tree().change_scene("res://Scenes/Level2/Level2.tscn")
