@@ -142,11 +142,10 @@ rect_scale = Vector2( 0.506002, 0.628718 )
 dialogPath = "res://Data/dialog_cliff.json"
 
 [node name="LevelEnd" type="Area2D" parent="."]
-position = Vector2( 1470, 950 )
+position = Vector2( 2760, 850 )
 script = ExtResource( 9 )
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="LevelEnd"]
-position = Vector2( 1590.37, -96.9478 )
 shape = SubResource( 11 )
 
 [connection signal="body_entered" from="Snickers" to="Snickers" method="_on_Snickers_body_entered"]
