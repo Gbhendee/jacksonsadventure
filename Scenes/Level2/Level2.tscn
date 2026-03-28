@@ -81,6 +81,10 @@ frames = SubResource( 6 )
 animation = "Sitting"
 
 [node name="Dialog" parent="Snickers2" instance=ExtResource( 6 )]
+margin_left = -33.0
+margin_top = -52.0
+margin_right = 7.0
+margin_bottom = -12.0
 visible = false
 dialogPath = "res://Data/dialog2.json"
 
