@@ -11,7 +11,7 @@ func _on_LevelEnd_body_entered(body):
 func _fade_and_transition():
 	var canvas_layer = CanvasLayer.new()
 	canvas_layer.layer = 10
-	get_tree().root.add_child(canvas_layer)
+	add_child(canvas_layer)
 
 	var rect = ColorRect.new()
 	rect.color = Color(0, 0, 0, 0)

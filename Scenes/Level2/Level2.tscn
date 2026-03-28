@@ -51,9 +51,9 @@ color = Color( 0.0588235, 0.0392157, 0.0784314, 1 )
 position = Vector2( -282, 614 )
 
 [node name="Camera2D" type="Camera2D" parent="Player"]
-position = Vector2( -351.579, 13.9029 )
 current = true
 zoom = Vector2( 0.5, 0.5 )
+smoothing_enabled = false
 limit_left = 0
 limit_top = 0
 limit_right = 3264
